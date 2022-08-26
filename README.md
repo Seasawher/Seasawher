@@ -1,16 +1,25 @@
-### Hi there 👋
+## 👋 自己紹介 
 
-<!--
-**Seasawher/Seasawher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+北窓です．「きたまど」と読みます．
 
-Here are some ideas to get you started:
+大学では数学（整数論と離散最適化）をやっていました．数学の修士号を持っています．
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 今やっていること
+
+PHP(Laravel)でWeb開発をしています．
+
+## 📫 SNSなど
+
+* [Twitter](https://twitter.com/seasawher)...一応アカウントを持っていますが，あまり見ていません．
+
+* [Blog](https://seasawher.hatenablog.com/)...日記ブログです．不定期で更新しています．
+
+## 🌱 今後やりたいこと
+
+edXでオンライン授業を取っています．今やってるのはCS50のWeb Programming．
+
+暗号と数理最適化の勉強をして，将来的にそれを扱うような職に転職することを目指しています．
+
+## 謝辞など
+
+アイコンにしている画像は，みーなのキャラメーカー(β版) から拝借しました．
