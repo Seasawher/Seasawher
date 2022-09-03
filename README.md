@@ -6,7 +6,11 @@
 
 ## 🔭 今やっていること
 
-PHP(Laravel)でWeb開発をしています．
+* PHP(Laravel)
+* HTML
+* CSS(Bootstrap)
+* JavaScript(jQuery) / TypeScript
+* Python(Django)
 
 ## 📫 SNSなど
 
