@@ -4,6 +4,8 @@
 
 大学では数学（整数論と離散最適化）をやっていました．数学の修士号を持っています．
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🔭 今やっていること
 
 * PHP(Laravel)
