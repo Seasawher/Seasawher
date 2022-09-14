@@ -4,9 +4,7 @@
 
 大学では数学（整数論と離散最適化）をやっていました．数学の修士号を持っています．
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seasawher&theme=github_dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) [![](https://raw.githubusercontent.com/Seasawher/Seasawher/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 🔭 今やっていること
 
