@@ -6,6 +6,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seasawher&theme=github_dark)
+
 ## 🔭 今やっていること
 
 * PHP(Laravel)
