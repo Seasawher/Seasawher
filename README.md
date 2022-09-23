@@ -27,19 +27,9 @@
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 
-## :sparkles: よく使うツール
+## :sparkles: 好きなもの
 
-* VSCode: テキストエディタ
-
-* GitHub: 世界
-
-* Git: バージョン管理ツール
-
-* Cypress: ブラウザテスト自動化フレームワーク
-
-* Windows Terminal, PowerShell, Starship: ターミナル
-
-* DBeaver: データベースを操作するGUIツール
+[awesomeList](./awesomeList.md)を参照のこと．
 
 ## 📫 SNSなど
 
