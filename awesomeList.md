@@ -20,6 +20,8 @@
 
 - [edX](https://www.edx.org/) - ハーバード大学やMITをはじめとした大学の授業を無料で受けることができるサービス．有料ですが，履修証明を貰うこともできます．
 
+- [Microsoft Learn](https://learn.microsoft.com/ja-jp/training/) - Microsftによる教育プログラム．初心者から上級者まで，幅広い層向けの授業がある．
+
 ## 開発
 
 - [GitHub](https://github.co.jp/) - ソフトウェア開発のプラットフォーム．markdownファイルの中でtex記法を使うことができます．タスク管理に使うこともできます．
