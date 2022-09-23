@@ -49,7 +49,7 @@
 
 - [Google Trend](https://trends.google.co.jp/trends/?geo=JP) - 検索トレンドを調べることができるサービス．
 
-### 企業
+## 企業
 
 - [Springer](https://www.springer.com/jp/) - ドイツの大手出版社．多くの数学書を扱っています．
 
