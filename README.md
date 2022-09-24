@@ -10,7 +10,7 @@
 
 暗号と数理最適化の勉強をして，将来的にそれを扱うような職に転職することを目指しています．
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![](https://raw.githubusercontent.com/Seasawher/Seasawher/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 🔭 経験した言語やフレームワークなど
 
