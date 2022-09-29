@@ -20,8 +20,6 @@
 
 - [edX](https://www.edx.org/) - ハーバード大学やMITをはじめとした大学の授業を無料で受けることができるサービス．有料ですが，履修証明を貰うこともできます．
 
-- [Microsoft Learn](https://learn.microsoft.com/ja-jp/training/) - Microsftによる教育プログラム．初心者から上級者まで，幅広い層向けの授業がある．
-
 ## 開発
 
 - [GitHub](https://github.co.jp/) - ソフトウェア開発のプラットフォーム．markdownファイルの中でtex記法を使うことができます．タスク管理に使うこともできます．
@@ -69,16 +67,6 @@
 
 - [Beats](https://www.beatsbydre.com/jp) - ワイヤレスヘッドホンやワイヤレスイヤホンを製造しているメーカー．重低音を強調しがち．
 
-## 趣味
-
-- [とりあえず作ったものとか。](http://para.blog14.fc2.com/) - ツクールでゲームを作っていた方の日記ブログ．主な話題はひょうたん栽培とか．
-
-- [なりょ巻き/なんだかよくわからない雑談動画](https://www.nicovideo.jp/series/12303?ref=pc_watch_description_series) - 2019年5月で更新が途絶えています．ニコニコでゲーム実況をされていた方の，近況を報告するだけの動画．「話すネタがない」ことをネタにするのが恒例になっています．
-
-- [RPG探検隊](https://rpgex.sakura.ne.jp/home/) - フリーゲーム2019を受賞したツクールゲーム『新約帽子世界』の作者さまのブログ．
-
-- [しらたまの甘味所](http://www5e.biglobe.ne.jp/~siratama/frame/index.html) - 2004年4月で更新が途絶えています．大学生が運営されている将棋についてのホームページなのですが，日記コーナーが併設されています．
-
 ## 日常生活
 
 - [Zoom](https://zoom.us/) - ビデオ会議をするためのアプリ．
@@ -96,3 +84,13 @@
 - [Google Calendar](https://calendar.google.com/calendar/) - iOSの規定のカレンダーアプリよりUIがわかりやすいように感じます．
 
 - [LINE](https://line.me/ja/) - SNSアプリ．メールより気軽にメッセージを送りあうことができます．
+
+## 趣味
+
+- [とりあえず作ったものとか。](http://para.blog14.fc2.com/) - ツクールでゲームを作っていた方の日記ブログ．主な話題はひょうたん栽培とか．
+
+- [なりょ巻き/なんだかよくわからない雑談動画](https://www.nicovideo.jp/series/12303?ref=pc_watch_description_series) - 2019年5月で更新が途絶えています．ニコニコでゲーム実況をされていた方の，近況を報告するだけの動画．「話すネタがない」ことをネタにするのが恒例になっています．
+
+- [RPG探検隊](https://rpgex.sakura.ne.jp/home/) - フリーゲーム2019を受賞したツクールゲーム『新約帽子世界』の作者さまのブログ．
+
+- [しらたまの甘味所](http://www5e.biglobe.ne.jp/~siratama/frame/index.html) - 2004年4月で更新が途絶えています．大学生が運営されている将棋についてのホームページなのですが，日記コーナーが併設されています．
