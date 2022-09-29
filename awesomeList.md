@@ -76,7 +76,7 @@
 
 - [Bing Wallpaper](https://www.microsoft.com/ja-jp/bing/bing-wallpaper) - デスクトップの壁紙を毎日自動で変えてくれるアプリ．
 
-- [AdBlock](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom) - うるさい広告を自動で消してくれるアドオン．
+- [Ad Guard](https://github.com/AdguardTeam/AdGuardHome) - うるさい広告を消してくれます．よく似たものに Ad Block があります．
 
 - [DeepL翻訳](https://chrome.google.com/webstore/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj/) - 右クリックメニューから直ちに翻訳を表示することができるアドオン．
 
