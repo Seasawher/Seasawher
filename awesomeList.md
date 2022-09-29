@@ -24,11 +24,7 @@
 
 - [GitHub](https://github.co.jp/) - ソフトウェア開発のプラットフォーム．markdownファイルの中でtex記法を使うことができます．タスク管理に使うこともできます．
 
-- [GitHub Marketplace](https://github.com/marketplace) - GitHubの拡張アプリが一望できるページ．
-
 - [HackMD](https://hackmd.io/) - MarkdownとTeX記法が使えるWeb上のテキストエディタ．
-
-- [VSCode Marketplace](https://marketplace.visualstudio.com/vscode) - VSCodeの拡張機能が一望できるページ．
 
 - [Visual Studio Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code/) - 高機能なテキストエディタ．拡張機能を入れることで細かくカスタマイズが可能．
 
@@ -85,8 +81,6 @@
 - [GoodNotes](https://apps.apple.com/jp/app/goodnotes-5/id1444383602) - PDF形式の電子書籍を読んだり，ノートをとったりするときに便利なiPad用のアプリ．プレゼン用の機能があるので，ゼミの時にも使えます．
 
 - [Google Calendar](https://calendar.google.com/calendar/) - iOSの規定のカレンダーアプリよりUIがわかりやすいように感じます．
-
-- [LINE](https://line.me/ja/) - SNSアプリ．メールより気軽にメッセージを送りあうことができます．
 
 ## 趣味
 
