@@ -32,6 +32,8 @@
 
 - [PowerShell](https://github.com/PowerShell/PowerShell) - シェル．予測変換が使えてちょっと便利．スクリプト言語としても，VSCode拡張機能と合わせるとデバッグがしやすいので好き．
 
+- [Cypress](https://github.com/cypress-io/cypress) - ブラウザテスト自動化フレームワーク．
+
 ## 翻訳・語学
 
 - [DeepL](https://www.deepl.com/translator) - 高精度な翻訳サービス．
