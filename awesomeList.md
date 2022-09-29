@@ -34,7 +34,10 @@
 
 - [Git for Windows](https://gitforwindows.org/) - バージョン管理ツールGitをWindowsで使えるようにするためのアプリ．
 
+- [PowerShell](https://github.com/PowerShell/PowerShell) - シェル．予測変換が使えてちょっと便利．スクリプト言語としても，VSCode拡張機能と合わせるとデバッグがしやすいので好き．
+
 ## 翻訳・語学
+
 - [DeepL](https://www.deepl.com/translator) - 高精度な翻訳サービス．
 
 - [Kurzgesagt](https://www.youtube.com/c/inanutshell) - アニメを使っていろんな題材をわかりやすく紹介する動画を出しているやや教育寄りのYoutubeチャンネル．英語の勉強用にたまに聴きます．
