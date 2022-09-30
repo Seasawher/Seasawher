@@ -84,7 +84,7 @@
 
 - [Google Calendar](https://calendar.google.com/calendar/) - iOSの規定のカレンダーアプリよりUIがわかりやすいように感じます．
 
-## 趣味
+<!-- ## 趣味
 
 - [とりあえず作ったものとか。](http://para.blog14.fc2.com/) - ツクールでゲームを作っていた方の日記ブログ．主な話題はひょうたん栽培とか．
 
@@ -92,4 +92,4 @@
 
 - [RPG探検隊](https://rpgex.sakura.ne.jp/home/) - フリーゲーム2019を受賞したツクールゲーム『新約帽子世界』の作者さまのブログ．
 
-- [しらたまの甘味所](http://www5e.biglobe.ne.jp/~siratama/frame/index.html) - 2004年4月で更新が途絶えています．大学生が運営されている将棋についてのホームページなのですが，日記コーナーが併設されています．
+- [しらたまの甘味所](http://www5e.biglobe.ne.jp/~siratama/frame/index.html) - 2004年4月で更新が途絶えています．大学生が運営されている将棋についてのホームページなのですが，日記コーナーが併設されています． -->
