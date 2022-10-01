@@ -72,11 +72,14 @@
 
 - [Zoom](https://zoom.us/) - ビデオ会議をするためのアプリ．
 
-- [Google Chrome](https://www.google.com/intl/ja_jp/chrome/) - Webブラウザ．オフラインのときに可愛い恐竜のゲームをプレイすることができるほか，さまざまな拡張機能が利用できるという特徴があります．
+- [Google Chrome](https://www.google.com/intl/ja_jp/chrome/) - Webブラウザ．Webブラウザの中では最も好きです．以下，Firefox と比較した長所．
+  - 新規タブを開いた時のホーム画面を日替わりにすることができる
+  - 拡張機能ストアがよりきちんと管理されており，デベロッパ向けの拡張機能も充実している
+  - オフラインの時に恐竜のゲームを遊ぶことができる
 
 - [Bing Wallpaper](https://www.microsoft.com/ja-jp/bing/bing-wallpaper) - デスクトップの壁紙を毎日自動で変えてくれるアプリ．
 
-- [Ad Guard](https://github.com/AdguardTeam/AdGuardHome) - うるさい広告を消してくれます．よく似たものに Ad Block があります．
+- [Ad Guard](https://github.com/AdguardTeam/AdguardBrowserExtension) - うるさい広告を消してくれるブラウザ拡張機能．よく似たものに Ad Block がありますが，こちらはオープンソース．
 
 - [DeepL翻訳](https://chrome.google.com/webstore/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj/) - 右クリックメニューから直ちに翻訳を表示することができるアドオン．
 
