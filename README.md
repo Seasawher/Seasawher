@@ -40,3 +40,5 @@
 * アイコンにしている画像は，みーなのキャラメーカー(β版) から拝借しました．
 
 * 経験した言語やフレームワークのバッジは [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons#icons-list) から拝借いたしました．
+
+* 統計情報を表示するのに [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) を拝借いたしました．
