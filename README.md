@@ -14,7 +14,7 @@
 
 ## 🔭 統計
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=dark)
 
 
 [![](https://raw.githubusercontent.com/Seasawher/Seasawher/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
