@@ -13,13 +13,17 @@
 
 
 ## 🔭 統計
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true)
+
+
 [![](https://raw.githubusercontent.com/Seasawher/Seasawher/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://raw.githubusercontent.com/Seasawher/Seasawher/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Seasawher/Seasawher/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 🧰 経験したツール
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery,laravel,django,mysql,sqlite,git,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery,laravel,django,mysql,sqlite,git,vscode&theme=dark)](https://skillicons.dev)
 
 ## :sparkles: 好きなもの
 
