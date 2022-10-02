@@ -35,6 +35,8 @@
 
 * [Blog](https://seasawher.hatenablog.com/)...日記ブログです．不定期で更新しています．
 
+* [GitBook](https://kitamado.gitbook.io/diary/)...日記として運用しているGitBookのリポジトリ．
+
 ## :bow: 謝辞など
 
 * アイコンにしている画像は，みーなのキャラメーカー(β版) から拝借しました．
