@@ -25,7 +25,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery,laravel,django,mysql,sqlite,git,vscode&theme=dark)](https://skillicons.dev)
 
-## :sparkles: 好きなもの
+## :sparkles: What I like...
 
 [awesomeList](./awesomeList.md)を参照のこと．
 
