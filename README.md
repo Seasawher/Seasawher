@@ -1,10 +1,10 @@
-## 👋 自己紹介 
+## 👋 Hi there !
 
 北窓です．「きたまど」と読みます．
 
 大学では数学（整数論と離散最適化）をやっていました．数学の修士号を持っています．
 
-## 🌱 今後やりたいこと
+## 🌱 I wish to do
 
 仕事をしながらedXでオンライン授業を取っています．今やってるのはCS50のWeb Programming．
 
@@ -12,7 +12,7 @@
 
 
 
-## 🔭 統計
+## 🔭 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=github_dark&show_icons=true)
 
@@ -21,7 +21,7 @@
 
 [![](https://raw.githubusercontent.com/Seasawher/Seasawher/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Seasawher/Seasawher/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## 🧰 経験したツール
+## 🧰 Tools experienced
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery,laravel,django,mysql,sqlite,git,vscode&theme=dark)](https://skillicons.dev)
 
@@ -29,7 +29,7 @@
 
 [awesomeList](./awesomeList.md)を参照のこと．
 
-## 📫 SNSなど
+## 📫 SNS, Blogs...
 
 * [Twitter](https://twitter.com/seasawher)...一応アカウントを持っていますが，あまり見ていません．
 
@@ -37,7 +37,7 @@
 
 * [GitBook](https://kitamado.gitbook.io/diary/)...日記として運用しているGitBookのリポジトリ．
 
-## :bow: 謝辞など
+## :bow: Acknowledgments
 
 * アイコンにしている画像は，みーなのキャラメーカー(β版) から拝借しました．
 
