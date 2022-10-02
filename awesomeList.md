@@ -97,4 +97,4 @@
 
 - [Roberto Olzer Trio](https://music.apple.com/jp/artist/roberto-olzer-trio/574336074) - ジャズ．ピアノトリオです．ちょっとクラシックっぽいかな？
 
-- [久石譲(https://music.apple.com/jp/artist/%E4%B9%85%E7%9F%B3-%E8%AD%B2/74486938) - 映画音楽．宮崎アニメの音楽を担当していることで有名．
+- [久石譲](https://music.apple.com/jp/artist/%E4%B9%85%E7%9F%B3-%E8%AD%B2/74486938) - 映画音楽．宮崎アニメの音楽を担当していることで有名．
