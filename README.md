@@ -12,7 +12,7 @@ I have a Master's degree in Mathematics.
 
 ## 🌱 I wish to do
 
-仕事をしながらedXでオンライン授業を取っています．今やってるのはCS50のWeb Programming．
+仕事をしながらedXでオンライン授業を取っています．今やってるのはCS50のWebプログラミング．
 
 暗号と数理最適化の勉強をして，将来的にそれを扱うような職に転職することを目指しています．
 
