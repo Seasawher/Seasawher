@@ -4,13 +4,21 @@
 
 大学では数学（整数論と離散最適化）をやっていました．数学の修士号を持っています．
 
+Hello, World.
+
+I majored in mathematics (number theory and discrete optimization) at university.
+
+I have a Master's degree in Mathematics.
+
 ## 🌱 I wish to do
 
 仕事をしながらedXでオンライン授業を取っています．今やってるのはCS50のWeb Programming．
 
 暗号と数理最適化の勉強をして，将来的にそれを扱うような職に転職することを目指しています．
 
+I am taking Computer Science classes at edX while working. I am currently working on CS50 Web Programming.
 
+I would like to learn cryptography and mathematical optimization in the future. I aim to move into a position where I can handle them.
 
 ## 🔭 Stats
 
