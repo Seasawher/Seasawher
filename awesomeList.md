@@ -87,12 +87,14 @@
 
 - [Google Calendar](https://calendar.google.com/calendar/) - iOSの規定のカレンダーアプリよりUIがわかりやすいように感じます．
 
-<!-- ## 趣味
+## 作業用BGM
 
-- [とりあえず作ったものとか。](http://para.blog14.fc2.com/) - ツクールでゲームを作っていた方の日記ブログ．主な話題はひょうたん栽培とか．
+- [上海アリス幻樂団](https://music.apple.com/jp/artist/%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3/1190977068) - 弾幕STGゲームのサントラが中心．電子音楽です．
 
-- [なりょ巻き/なんだかよくわからない雑談動画](https://www.nicovideo.jp/series/12303?ref=pc_watch_description_series) - 2019年5月で更新が途絶えています．ニコニコでゲーム実況をされていた方の，近況を報告するだけの動画．「話すネタがない」ことをネタにするのが恒例になっています．
+- [ZUN](https://music.apple.com/jp/artist/zun/323231415/see-all?section=top-songs) - 「上海アリス」と同じ作曲者なのですが，「今宵は飄逸なエゴイスト」などはこちらからしか見つけられません．
 
-- [RPG探検隊](https://rpgex.sakura.ne.jp/home/) - フリーゲーム2019を受賞したツクールゲーム『新約帽子世界』の作者さまのブログ．
+- [Adrian Talens](https://music.apple.com/jp/artist/adrian-talens/1090231457) - ゲーム「Poly Bridge」の音楽を担当された方．ギターは良いですね．
 
-- [しらたまの甘味所](http://www5e.biglobe.ne.jp/~siratama/frame/index.html) - 2004年4月で更新が途絶えています．大学生が運営されている将棋についてのホームページなのですが，日記コーナーが併設されています． -->
+- [Roberto Olzer Trio](https://music.apple.com/jp/artist/roberto-olzer-trio/574336074) - ジャズ．ピアノトリオです．ちょっとクラシックっぽいかな？
+
+
