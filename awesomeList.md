@@ -60,6 +60,8 @@
 
 - 😎 [PowerShell Practices and Style](https://poshcode.gitbook.io/powershell-practice-and-style/introduction/readme) - 非公式コミュニティによる，PowerShellのベストプラクティスをまとめたページ．
 
+- 😎 [The Hitchhiker's Guide to Python](https://docs.python-guide.org/) - コミュニティによるPythonの資料．
+
 - :sunglasses: [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices) - 有志による，Laravelのベストプラクティスをまとめたページ．
 
 - [PowerShell Best Practices](https://powershell-guru.com/) - PowerShellのベストプラクティスをまとめたページ．
