@@ -22,7 +22,14 @@ I would like to learn cryptography and mathematical optimization in the future. 
 
 ## 🔭 Stats
 
-### WakaTime
+### GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=github_dark&show_icons=true)
+
+
+[![](https://raw.githubusercontent.com/Seasawher/Seasawher/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+### Languages
 
 <!--START_SECTION:waka-->
 
@@ -36,15 +43,6 @@ Git          1 min           ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-### GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=github_dark&show_icons=true)
-
-
-[![](https://raw.githubusercontent.com/Seasawher/Seasawher/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-### Languages
 
 [![](https://raw.githubusercontent.com/Seasawher/Seasawher/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Seasawher/Seasawher/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
