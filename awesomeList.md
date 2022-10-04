@@ -34,7 +34,13 @@
 
 - [Cypress](https://github.com/cypress-io/cypress) - ブラウザテスト自動化フレームワーク．
 
-## ドキュメントなど
+## ドキュメント
+
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) - Mozillaによる，HTML/CSS/JavaScriptの資料．
+
+## ベストプラクティス
+
+- [Guidelines for styling code examples](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide) - Mozillaによる，HTML/CSS/JavaScriptのベストプラクティスをまとめたページ．
 
 - [PowerShell Best Practices](https://powershell-guru.com/) - PowerShellのベストプラクティスをまとめたページ．
 
