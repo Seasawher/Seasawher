@@ -55,7 +55,7 @@
 - :white_check_mark: [Djangoベストプラクティス](https://django-best-practice-ja.readthedocs.io/ja/latest/) - Djangoのベストプラクティス集.
 
 - :white_check_mark: [Guidelines for styling code examples](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide) - Mozillaによる，HTML/CSS/JavaScriptのベストプラクティスをまとめたページ．
-- 
+
 - :white_check_mark: [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) - Dockerfileの書き方のベストプラクティス集．
 
 - 😎 [PowerShell Practices and Style](https://poshcode.gitbook.io/powershell-practice-and-style/introduction/readme) - 非公式コミュニティによる，PowerShellのベストプラクティスをまとめたページ．
