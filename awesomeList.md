@@ -40,6 +40,8 @@
 
 ## ベストプラクティス
 
+- [Tailwind CSS best practices](https://gist.github.com/sandren/0f22e116f01611beab2b1195ab731b63) - TailwindCSSのベストプラクティス集．このgistを投稿しているsandren氏はTailwindの開発チームのひとりです．
+
 - [Guidelines for styling code examples](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide) - Mozillaによる，HTML/CSS/JavaScriptのベストプラクティスをまとめたページ．
 
 - [PowerShell Best Practices](https://powershell-guru.com/) - PowerShellのベストプラクティスをまとめたページ．
