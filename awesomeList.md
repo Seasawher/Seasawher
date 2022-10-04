@@ -35,6 +35,9 @@
 - [Cypress](https://github.com/cypress-io/cypress) - ブラウザテスト自動化フレームワーク．
 
 ## ドキュメント
+-[Laravel](https://laravel.com/docs/9.x) - Laravelの公式ドキュメント．
+
+- [PHPマニュアル](https://www.php.net/manual/ja/) - PHPのドキュメント．
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - Mozillaによる，HTML/CSS/JavaScriptの資料．
 
@@ -42,9 +45,15 @@
 
 - [Tailwind CSS best practices](https://gist.github.com/sandren/0f22e116f01611beab2b1195ab731b63) - TailwindCSSのベストプラクティス集．このgistを投稿しているsandren氏はTailwindの開発チームのひとりです．
 
+- [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices) - 有志による，Laravelのベストプラクティスをまとめたページ．
+
+- [PHP Best Practices](https://phpbestpractices.org/) - PHPのベストプラクティスをまとめたページ．運営はおそらく有志によるもの．
+
 - [Guidelines for styling code examples](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide) - Mozillaによる，HTML/CSS/JavaScriptのベストプラクティスをまとめたページ．
 
 - [PowerShell Best Practices](https://powershell-guru.com/) - PowerShellのベストプラクティスをまとめたページ．
+
+- [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) - Dockerfileの書き方のベストプラクティス集．
 
 ## 翻訳・語学
 
