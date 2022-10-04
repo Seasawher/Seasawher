@@ -36,6 +36,8 @@
 
 ## ドキュメント
 
+- [Python](https://docs.python.org/3/) - Pythonの公式ドキュメント
+
 - [Docker](https://docs.docker.com/) - Dockerの公式ドキュメント．
 
 - [Django](https://docs.djangoproject.com/ja/4.1/) - Djangoの公式ドキュメント．
