@@ -58,7 +58,7 @@
 - 
 - :white_check_mark: [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) - Dockerfileの書き方のベストプラクティス集．
 
- 😎 [PowerShell Practices and Style](https://poshcode.gitbook.io/powershell-practice-and-style/introduction/readme) - 非公式コミュニティによる，PowerShellのベストプラクティスをまとめたページ．
+- 😎 [PowerShell Practices and Style](https://poshcode.gitbook.io/powershell-practice-and-style/introduction/readme) - 非公式コミュニティによる，PowerShellのベストプラクティスをまとめたページ．
 
 - :sunglasses: [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices) - 有志による，Laravelのベストプラクティスをまとめたページ．
 
