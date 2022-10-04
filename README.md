@@ -22,10 +22,9 @@ I would like to learn cryptography and mathematical optimization in the future. 
 
 ## 🔭 Stats
 
-<img
-  src="https://github.com/Seasawher/Seasawher/blob/main/images/stat.svg"
-  alt="Seasawher Wakatime Activity"
-/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=github_dark&show_icons=true)
