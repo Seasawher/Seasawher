@@ -36,6 +36,8 @@
 
 ## ドキュメント
 
+- [Django](https://docs.djangoproject.com/ja/4.1/) - Djangoの公式ドキュメント．
+
 - [Laravel](https://laravel.com/docs/9.x) - Laravelの公式ドキュメント．
 
 - [PHPマニュアル](https://www.php.net/manual/ja/) - PHPのドキュメント．
@@ -45,6 +47,8 @@
 ## ベストプラクティス
 
 - [Tailwind CSS best practices](https://gist.github.com/sandren/0f22e116f01611beab2b1195ab731b63) - TailwindCSSのベストプラクティス集．このgistを投稿しているsandren氏はTailwindの開発チームのひとりです．
+
+- [Djangoベストプラクティス](https://django-best-practice-ja.readthedocs.io/ja/latest/) - Djangoのベストプラクティス集.
 
 - [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices) - 有志による，Laravelのベストプラクティスをまとめたページ．
 
