@@ -36,7 +36,7 @@
 
 ## ドキュメント
 
--[Laravel](https://laravel.com/docs/9.x) - Laravelの公式ドキュメント．
+- [Laravel](https://laravel.com/docs/9.x) - Laravelの公式ドキュメント．
 
 - [PHPマニュアル](https://www.php.net/manual/ja/) - PHPのドキュメント．
 
