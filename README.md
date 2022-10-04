@@ -36,7 +36,7 @@ I would like to learn cryptography and mathematical optimization in the future. 
 
 ## 🧰 Tools experienced
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery,laravel,django,mysql,sqlite,git,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery,laravel,django,mysql,sqlite,git,docker,vscode&theme=dark)](https://skillicons.dev)
 
 ## :sparkles: What I like...
 
