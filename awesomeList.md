@@ -34,6 +34,10 @@
 
 - [Cypress](https://github.com/cypress-io/cypress) - ブラウザテスト自動化フレームワーク．
 
+## ドキュメントなど
+
+- [PowerShell Best Practices](https://powershell-guru.com/) - PowerShellのベストプラクティスをまとめたページ．
+
 ## 翻訳・語学
 
 - [DeepL](https://www.deepl.com/translator) - 高精度な翻訳サービス．
