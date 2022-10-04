@@ -23,7 +23,7 @@ I would like to learn cryptography and mathematical optimization in the future. 
 ## 🔭 Stats
 
 <img
-  src="https://github.com/Seasawher/<repository-name>/blob/<branch-name>/images/stat.svg"
+  src="https://github.com/Seasawher/Seasawher/blob/main/images/stat.svg"
   alt="Seasawher Wakatime Activity"
 />
 
