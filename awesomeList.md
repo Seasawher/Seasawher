@@ -34,6 +34,8 @@
 
 - [Cypress](https://github.com/cypress-io/cypress) - ブラウザテスト自動化フレームワーク．
 
+- [GitBook](https://www.gitbook.com/) - 簡単にドキュメントが生成できるサービス．GitHub MarketPlaceにこれのアプリ版があるのですが，Markdownファイルをリポジトリにおいておくだけでドキュメントを生成してくれる優れもの．
+
 ## ドキュメント
 
 - [Python](https://docs.python.org/3/) - Pythonの公式ドキュメント
