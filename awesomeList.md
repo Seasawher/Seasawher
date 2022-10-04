@@ -48,19 +48,21 @@
 
 ## ベストプラクティス
 
-- [Tailwind CSS best practices](https://gist.github.com/sandren/0f22e116f01611beab2b1195ab731b63) - TailwindCSSのベストプラクティス集．このgistを投稿しているsandren氏はTailwindの開発チームのひとりです．
+ベストプラクティス集には個人が書いているものと，:white_check_mark:公式のもの，そして :sunglasses: コミュニティによるものがあります．
 
-- [Djangoベストプラクティス](https://django-best-practice-ja.readthedocs.io/ja/latest/) - Djangoのベストプラクティス集.
+- :white_check_mark: [Tailwind CSS best practices](https://gist.github.com/sandren/0f22e116f01611beab2b1195ab731b63) - TailwindCSSのベストプラクティス集．このgistを投稿しているsandren氏はTailwindの開発チームのひとりです．
 
-- [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices) - 有志による，Laravelのベストプラクティスをまとめたページ．
+- :white_check_mark: [Djangoベストプラクティス](https://django-best-practice-ja.readthedocs.io/ja/latest/) - Djangoのベストプラクティス集.
+
+- :sunglasses: [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices) - 有志による，Laravelのベストプラクティスをまとめたページ．
 
 - [PHP Best Practices](https://phpbestpractices.org/) - PHPのベストプラクティスをまとめたページ．運営はおそらく有志によるもの．
 
-- [Guidelines for styling code examples](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide) - Mozillaによる，HTML/CSS/JavaScriptのベストプラクティスをまとめたページ．
+- :white_check_mark: [Guidelines for styling code examples](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide) - Mozillaによる，HTML/CSS/JavaScriptのベストプラクティスをまとめたページ．
 
 - [PowerShell Best Practices](https://powershell-guru.com/) - PowerShellのベストプラクティスをまとめたページ．
 
-- [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) - Dockerfileの書き方のベストプラクティス集．
+- :white_check_mark: [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) - Dockerfileの書き方のベストプラクティス集．
 
 ## 翻訳・語学
 
