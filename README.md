@@ -22,6 +22,16 @@ I would like to learn cryptography and mathematical optimization in the future. 
 
 ## 🔭 Stats
 
+<img
+  src="https://github.com/Seasawher/<repository-name>/blob/<branch-name>/images/stat.svg"
+  alt="Alternative Text"
+/>
+Example:
+<img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=github_dark&show_icons=true)
 
 
