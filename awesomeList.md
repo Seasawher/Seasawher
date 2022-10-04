@@ -24,8 +24,6 @@
 
 - [GitHub](https://github.co.jp/) - ソフトウェア開発のプラットフォーム．markdownファイルの中でtex記法を使うことができます．タスク管理に使うこともできます．
 
-- [HackMD](https://hackmd.io/) - MarkdownとTeX記法が使えるWeb上のテキストエディタ．
-
 - [Visual Studio Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code/) - 高機能なテキストエディタ．拡張機能を入れることで細かくカスタマイズが可能．
 
 - [Git for Windows](https://gitforwindows.org/) - バージョン管理ツールGitをWindowsで使えるようにするためのアプリ．
@@ -35,6 +33,10 @@
 - [Cypress](https://github.com/cypress-io/cypress) - ブラウザテスト自動化フレームワーク．
 
 - [GitBook](https://www.gitbook.com/) - 簡単にドキュメントが生成できるサービス．GitHub MarketPlaceにこれのアプリ版があるのですが，Markdownファイルをリポジトリにおいておくだけでドキュメントを生成してくれる優れもの．
+
+<!--
+- [HackMD](https://hackmd.io/) - MarkdownとTeX記法が使えるWeb上のテキストエディタ．
+-->
 
 ## ドキュメント
 
