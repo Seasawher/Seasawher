@@ -24,6 +24,16 @@ I would like to learn cryptography and mathematical optimization in the future. 
 
 
 <!--START_SECTION:waka-->
+
+```text
+Docker       28 mins         █████████░░░░░░░░░░░░░░░░   36.13 %
+YAML         21 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.60 %
+PowerShell   17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
+Text         6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+JSON         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Git          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+```
+
 <!--END_SECTION:waka-->
 
 
