@@ -40,6 +40,8 @@
 
 - [CVE security vulnerability](https://www.cvedetails.com/index.php) - 既知の脆弱性がまとめられているサイト．
 
+- [Snyk Vulnerability Database](https://security.snyk.io/) - Snykによるオープンの脆弱性DB．見やすくまとまっています．
+
 ## ドキュメント
 
 - [Python](https://docs.python.org/3/) - Pythonの公式ドキュメント
