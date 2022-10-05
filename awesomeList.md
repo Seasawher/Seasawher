@@ -74,6 +74,8 @@
 
 - [PHP Best Practices](https://phpbestpractices.org/) - PHPのベストプラクティスをまとめたページ．運営はおそらく有志によるもの．
 
+- [Bootstrap Best Practices](https://medium.com/@nikita.vyrko/bootstrap-best-practices-59752895d4e1) - Bootstrapのベストプラクティスをまとめた記事．個人の意見です．
+
 ## 翻訳・語学
 
 - [DeepL](https://www.deepl.com/translator) - 高精度な翻訳サービス．
