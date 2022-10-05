@@ -36,6 +36,8 @@
 
 - [Snyk Vulnerability Database](https://security.snyk.io/) - Snykによるオープンの脆弱性DB．見やすくまとまっています．
 
+- [LightHouse](https://developer.chrome.com/docs/lighthouse/) - Webページの読み込み速度や脆弱性のチェックをしてくれるツール．Chromeの開発者ツールから使用できる.
+
 <!--
 - [HackMD](https://hackmd.io/) - MarkdownとTeX記法が使えるWeb上のテキストエディタ．
 
