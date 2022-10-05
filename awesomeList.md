@@ -34,13 +34,13 @@
 
 - [GitBook](https://www.gitbook.com/) - 簡単にドキュメントが生成できるサービス．GitHub MarketPlaceにこれのアプリ版があるのですが，Markdownファイルをリポジトリにおいておくだけでドキュメントを生成してくれる優れもの．
 
+- [Snyk Vulnerability Database](https://security.snyk.io/) - Snykによるオープンの脆弱性DB．見やすくまとまっています．
+
 <!--
 - [HackMD](https://hackmd.io/) - MarkdownとTeX記法が使えるWeb上のテキストエディタ．
--->
 
 - [CVE security vulnerability](https://www.cvedetails.com/index.php) - 既知の脆弱性がまとめられているサイト．
-
-- [Snyk Vulnerability Database](https://security.snyk.io/) - Snykによるオープンの脆弱性DB．見やすくまとまっています．
+-->
 
 ## ドキュメント
 
