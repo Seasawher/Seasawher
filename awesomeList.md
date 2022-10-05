@@ -38,6 +38,8 @@
 - [HackMD](https://hackmd.io/) - MarkdownとTeX記法が使えるWeb上のテキストエディタ．
 -->
 
+- [CVE security vulnerability](https://www.cvedetails.com/index.php) - 既知の脆弱性がまとめられているサイト．
+
 ## ドキュメント
 
 - [Python](https://docs.python.org/3/) - Pythonの公式ドキュメント
