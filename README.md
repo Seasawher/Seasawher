@@ -48,7 +48,9 @@ Git          1 min           ▓░░░░░░░░░░░░░░░░
 
 ## 🧰 Tools experienced
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery,laravel,django,mysql,sqlite,git,docker,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery,laravel,django&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,git,docker,vscode&theme=dark)](https://skillicons.dev)
 
 ## :sparkles: What I like...
 
