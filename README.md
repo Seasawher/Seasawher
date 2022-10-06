@@ -20,16 +20,13 @@ I am taking Computer Science classes at edX while working. I am currently workin
 
 I would like to learn cryptography and mathematical optimization in the future. I aim to move into a position where I can handle them.
 
-## 🔭 Stats
-
-### GitHub Stats
+## 🔭 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=github_dark&show_icons=true)
 
-
 [![](https://raw.githubusercontent.com/Seasawher/Seasawher/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-### Languages
+## :bar_chart: My Coding Activity
 
 <!--START_SECTION:waka-->
 
