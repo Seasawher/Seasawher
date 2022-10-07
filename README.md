@@ -55,6 +55,14 @@ YAML         26 mins         █▓░░░░░░░░░░░░░░░
 
 [awesomeList](./awesomeList.md)を参照のこと．
 
+## :books: Recommended Books
+
+- Kleinberg, Tardos『Algorithm Design』
+
+- Cox, Little, O'Shea『Ideals, Varieties, and Algorithms』
+
+- Stein, Shakarchi『Princeton Lectures in Analysis』
+
 ## 📫 SNS, Blogs...
 
 * [Twitter](https://twitter.com/seasawher)...一応アカウントを持っていますが，あまり見ていません．
