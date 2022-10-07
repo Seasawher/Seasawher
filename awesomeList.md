@@ -80,6 +80,8 @@
 
 - [PHP Best Practices](https://phpbestpractices.org/) - PHPのベストプラクティスをまとめたページ．運営はおそらく有志によるもの．
 
+- [Best Practice for Database Design](https://modeldba.com/guides/best-practices-for-database-design/) - ModelDBAというツールの開発元による，データベース設計のベストプラクティス集．
+
 - [Bootstrap Best Practices](https://medium.com/@nikita.vyrko/bootstrap-best-practices-59752895d4e1) - Bootstrapのベストプラクティスをまとめた記事．個人の意見です．
 
 ## 翻訳・語学
