@@ -38,12 +38,6 @@
 
 - [LightHouse](https://developer.chrome.com/docs/lighthouse/) - Webページの読み込み速度や脆弱性のチェックをしてくれるツール．Chromeの開発者ツールから使用できる.
 
-<!--
-- [HackMD](https://hackmd.io/) - MarkdownとTeX記法が使えるWeb上のテキストエディタ．
-
-- [CVE security vulnerability](https://www.cvedetails.com/index.php) - 既知の脆弱性がまとめられているサイト．
--->
-
 ## :book: ドキュメントとベストプラクティス
 
 ### ドキュメント
@@ -61,8 +55,6 @@
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - Mozillaによる，HTML/CSS/JavaScriptの資料．
 
 ### ベストプラクティス
-
-ベストプラクティス集には個人が書いているものと，:white_check_mark:公式のもの，そして :sunglasses: コミュニティによるものがあります．
 
 - [Tailwind CSS best practices](https://gist.github.com/sandren/0f22e116f01611beab2b1195ab731b63) - TailwindCSSのベストプラクティス集．このgistを投稿しているsandren氏はTailwindの開発チームのひとりです．
 
