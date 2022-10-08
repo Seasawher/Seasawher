@@ -44,7 +44,9 @@
 - [CVE security vulnerability](https://www.cvedetails.com/index.php) - 既知の脆弱性がまとめられているサイト．
 -->
 
-## ドキュメント
+## :book: ドキュメントとベストプラクティス
+
+### ドキュメント
 
 - [Python](https://docs.python.org/3/) - Pythonの公式ドキュメント
 
@@ -58,36 +60,23 @@
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - Mozillaによる，HTML/CSS/JavaScriptの資料．
 
-## ベストプラクティス
+### ベストプラクティス
 
 ベストプラクティス集には個人が書いているものと，:white_check_mark:公式のもの，そして :sunglasses: コミュニティによるものがあります．
 
-- :white_check_mark: [Tailwind CSS best practices](https://gist.github.com/sandren/0f22e116f01611beab2b1195ab731b63) - TailwindCSSのベストプラクティス集．このgistを投稿しているsandren氏はTailwindの開発チームのひとりです．
+- [Tailwind CSS best practices](https://gist.github.com/sandren/0f22e116f01611beab2b1195ab731b63) - TailwindCSSのベストプラクティス集．このgistを投稿しているsandren氏はTailwindの開発チームのひとりです．
 
-- :white_check_mark: [Djangoベストプラクティス](https://django-best-practice-ja.readthedocs.io/ja/latest/) - Djangoのベストプラクティス集.
+- [Djangoベストプラクティス](https://django-best-practice-ja.readthedocs.io/ja/latest/) - Djangoのベストプラクティス集.
 
-- :white_check_mark: [Guidelines for styling code examples](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide) - Mozillaによる，HTML/CSS/JavaScriptのドキュメントをどのように編集すべきかについてのガイドライン．必ずしもベストプラクティスではないですが，参考にはなります．
+- [Guidelines for styling code examples](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide) - Mozillaによる，HTML/CSS/JavaScriptのドキュメントをどのように編集すべきかについてのガイドライン．必ずしもベストプラクティスではないですが，参考にはなります．
 
-- :white_check_mark: [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) - Dockerfileの書き方のベストプラクティス集．
+- [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) - Dockerfileの書き方のベストプラクティス集．
 
-- 😎 [PowerShell Practices and Style](https://poshcode.gitbook.io/powershell-practice-and-style/introduction/readme) - 非公式コミュニティによる，PowerShellのベストプラクティスをまとめたページ．
+- [PowerShell Practices and Style](https://poshcode.gitbook.io/powershell-practice-and-style/introduction/readme) - 非公式コミュニティによる，PowerShellのベストプラクティスをまとめたページ．
 
-- 😎 [The Hitchhiker's Guide to Python](https://docs.python-guide.org/) - コミュニティによるPythonの資料．
+- [The Hitchhiker's Guide to Python](https://docs.python-guide.org/) - コミュニティによるPythonの資料．
 
-- :sunglasses: [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices) - 有志による，Laravelのベストプラクティスをまとめたページ．
-
-- [PowerShell Best Practices](https://powershell-guru.com/) - PowerShellのベストプラクティスをまとめたページ．
-
-- [PHP Best Practices](https://phpbestpractices.org/) - PHPのベストプラクティスをまとめたページ．運営はおそらく有志によるもの．
-
-
-<!--
-- [Best Practice for Database Design](https://modeldba.com/guides/best-practices-for-database-design/) - ModelDBAというツールの開発元による，データベース設計のベストプラクティス集．
-
-- [Source Making](https://sourcemaking.com/) - Design PatternやAnti Patternについて，言語によらない一般的なことをまとめたサイト．
-
-- [Bootstrap Best Practices](https://medium.com/@nikita.vyrko/bootstrap-best-practices-59752895d4e1) - Bootstrapのベストプラクティスをまとめた記事．個人の意見です．
--->
+- [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices) - 有志による，Laravelのベストプラクティスをまとめたページ．
 
 ## :books: おすすめの本
 
