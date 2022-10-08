@@ -4,7 +4,7 @@
 
 個人的なawesome-listです．
 
-## 数学
+## $\Sigma$ 数学
 
 - [Overleaf](https://ja.overleaf.com/) - オンラインのLaTeXエディター．ローカルに環境構築することなく，TeXからPDFの生成ができます．
 
