@@ -89,7 +89,7 @@
 - [Bootstrap Best Practices](https://medium.com/@nikita.vyrko/bootstrap-best-practices-59752895d4e1) - Bootstrapのベストプラクティスをまとめた記事．個人の意見です．
 -->
 
-## :books: Recommended Books
+## :books: おすすめの本
 
 - Kleinberg, Tardos『Algorithm Design』
 
