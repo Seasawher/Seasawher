@@ -97,7 +97,7 @@
 
 - Stein, Shakarchi『Princeton Lectures in Analysis』
 
-## 翻訳・語学
+## :airplane: 翻訳・語学
 
 - [DeepL](https://www.deepl.com/translator) - 高精度な翻訳サービス．
 
