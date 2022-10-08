@@ -20,7 +20,7 @@
 
 - [edX](https://www.edx.org/) - ハーバード大学やMITをはじめとした大学の授業を無料で受けることができるサービス．有料ですが，履修証明を貰うこともできます．
 
-## 開発
+## :wrench: 開発
 
 - [GitHub](https://github.co.jp/) - ソフトウェア開発のプラットフォーム．markdownファイルの中でtex記法を使うことができます．タスク管理に使うこともできます．
 
@@ -89,6 +89,14 @@
 - [Bootstrap Best Practices](https://medium.com/@nikita.vyrko/bootstrap-best-practices-59752895d4e1) - Bootstrapのベストプラクティスをまとめた記事．個人の意見です．
 -->
 
+## :books: Recommended Books
+
+- Kleinberg, Tardos『Algorithm Design』
+
+- Cox, Little, O'Shea『Ideals, Varieties, and Algorithms』
+
+- Stein, Shakarchi『Princeton Lectures in Analysis』
+
 ## 翻訳・語学
 
 - [DeepL](https://www.deepl.com/translator) - 高精度な翻訳サービス．
@@ -142,7 +150,7 @@
 
 - [Google Calendar](https://calendar.google.com/calendar/) - iOSの規定のカレンダーアプリよりUIがわかりやすいように感じます．
 
-## 作業用BGM
+## :musical_note: 作業用BGM
 
 - [上海アリス幻樂団](https://music.apple.com/jp/artist/%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3/1190977068) - 弾幕STGゲームのサントラが中心．電子音楽です．
 
