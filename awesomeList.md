@@ -106,7 +106,7 @@
 
 - [Beats](https://www.beatsbydre.com/jp) - ワイヤレスヘッドホンやワイヤレスイヤホンを製造しているメーカー．重低音を強調しがち．
 
-## 日常生活
+## :thumbsup: 日常生活
 
 - [Google Scholar](https://scholar.google.co.jp/schhp?hl=ja) - あるキーワードを含む論文や，特定の論文の引用元を探したりできる検索エンジン．
 
