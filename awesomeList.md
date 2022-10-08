@@ -14,11 +14,15 @@
 
 - [3Blue1Brown](https://www.youtube.com/c/3blue1brown) - 数学をビジュアルで説明する動画を出しているYoutubeチャンネル．
 
+- [岡本吉央/Teaching](http://dopal.cs.uec.ac.jp/okamotoy/lect/) - 離散数学に関する授業の講義スライドを見ることができます．コメント返信まであって丁寧．
+
 ## :mortar_board: 教育
 
 - [MIT OCW](https://ocw.mit.edu/) - MITの無料で閲覧できる講義が集められたサイト．履修証明はもらえません．
 
 - [edX](https://www.edx.org/) - ハーバード大学やMITをはじめとした大学の授業を無料で受けることができるサービス．有料ですが，履修証明を貰うこともできます．
+
+- [Free Computer Books](https://freecomputerbooks.com/) - 無料で公開されている電子書籍を集めたサイト．情報系の本が多いですが数学の本もあります．
 
 ## :wrench: 開発
 
@@ -84,17 +88,7 @@
 
 - [Kurzgesagt](https://www.youtube.com/c/inanutshell) - アニメを使っていろんな題材をわかりやすく紹介する動画を出しているやや教育寄りのYoutubeチャンネル．英語の勉強用にたまに聴きます．
 
-## 資料・情報
-
-- [岡本吉央/Teaching](http://dopal.cs.uec.ac.jp/okamotoy/lect/) - 離散数学に関する授業の講義スライドを見ることができます．コメント返信まであって丁寧．
-
-- [Free Computer Books](https://freecomputerbooks.com/) - 無料で公開されている電子書籍を集めたサイト．情報系の本が多いですが数学の本もあります．
-
-- [Google Scholar](https://scholar.google.co.jp/schhp?hl=ja) - あるキーワードを含む論文や，特定の論文の引用元を探したりできる検索エンジン．
-
-- [Google Trend](https://trends.google.co.jp/trends/?geo=JP) - 検索トレンドを調べることができるサービス．
-
-## 企業
+## :department_store: 企業
 
 - [Springer](https://www.springer.com/jp/) - ドイツの大手出版社．多くの数学書を扱っています．
 
@@ -113,6 +107,10 @@
 - [Beats](https://www.beatsbydre.com/jp) - ワイヤレスヘッドホンやワイヤレスイヤホンを製造しているメーカー．重低音を強調しがち．
 
 ## 日常生活
+
+- [Google Scholar](https://scholar.google.co.jp/schhp?hl=ja) - あるキーワードを含む論文や，特定の論文の引用元を探したりできる検索エンジン．
+
+- [Google Trend](https://trends.google.co.jp/trends/?geo=JP) - 検索トレンドを調べることができるサービス．
 
 - [Zoom](https://zoom.us/) - ビデオ会議をするためのアプリ．
 
