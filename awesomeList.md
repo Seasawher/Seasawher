@@ -14,7 +14,7 @@
 
 - [3Blue1Brown](https://www.youtube.com/c/3blue1brown) - 数学をビジュアルで説明する動画を出しているYoutubeチャンネル．
 
-## 教育
+## :mortar_board: 教育
 
 - [MIT OCW](https://ocw.mit.edu/) - MITの無料で閲覧できる講義が集められたサイト．履修証明はもらえません．
 
