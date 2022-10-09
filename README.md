@@ -10,6 +10,7 @@ I majored in mathematics (number theory and discrete optimization) at university
 
 I have a Master's degree in Mathematics.
 
+
 ## 🌱 I wish to do
 
 仕事をしながらedXでオンライン授業を取っています．今やってるのはCS50のWebプログラミング．
@@ -19,6 +20,14 @@ I have a Master's degree in Mathematics.
 I am taking Computer Science classes at edX while working. I am currently working on CS50 Web Programming.
 
 I would like to learn cryptography and mathematical optimization in the future. I aim to move into a position where I can handle them.
+
+## 🎓 Education
+
+- **Bachelor** Kyoto University, Faculty of Science
+
+- **Master** Kyoto University, Research Institute for Mathematical Sciences
+
+- **Verified Certificate** Harvard, CS50 Web Programming with Python and JavaScript (in progress !)
 
 ## 🔭 GitHub Stats
 
