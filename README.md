@@ -15,17 +15,17 @@ I have a Master's degree in Mathematics.
 
 仕事をしながらedXでオンライン授業を取っています．今やってるのはCS50のWebプログラミング．
 
-暗号と数理最適化の勉強をして，将来的にそれを扱うような職に転職することを目指しています．
+暗号と数理最適化の勉強をしてみたいと思っています．
 
 I am taking Computer Science classes at edX while working. I am currently working on CS50 Web Programming.
 
-I would like to learn cryptography and mathematical optimization in the future. I aim to move into a position where I can handle them.
+I would like to learn cryptography and mathematical optimization in the future. 
 
 ## 🎓 Education
 
 - **Bachelor** Kyoto University, Faculty of Science
 
-- **Master** Kyoto University, Research Institute for Mathematical Sciences
+- **Master** Kyoto University, Research Institute for Mathematical Science, on Discrete Optimization
 
 - **Verified Certificate** Harvard, CS50 Web Programming with Python and JavaScript (in progress !)
 
