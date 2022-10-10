@@ -38,7 +38,7 @@ I would like to learn cryptography and mathematical optimization in the future.
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 October 2022 - To: 08 October 2022
+From: 02 October 2022 - To: 09 October 2022
 
 Total Time: 11 hrs 1 min
 
