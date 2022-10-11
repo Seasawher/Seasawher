@@ -1,49 +1,81 @@
-# HELLO WORLD
-
-## 👋 自己紹介
+## 👋 Hi there !
 
 北窓です．「きたまど」と読みます．
 
 大学では数学（整数論と離散最適化）をやっていました．数学の修士号を持っています．
 
-## 🌱 今後やりたいこと
+Hello, World.
 
-仕事をしながらedXでオンライン授業を取っています．今やってるのはCS50のWeb Programming．
+I majored in mathematics (number theory and discrete optimization) at university.
 
-暗号と数理最適化の勉強をして，将来的にそれを扱うような職に転職することを目指しています．
+I have a Master's degree in Mathematics.
 
-[![](https://raw.githubusercontent.com/Seasawher/Seasawher/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## 🔭 経験した言語やフレームワークなど
+## 🌱 I wish to do
 
-### 統計
+仕事をしながらedXでオンライン授業を取っています．今やってるのはCS50のWebプログラミング．
+
+暗号と数理最適化の勉強をしてみたいと思っています．
+
+I am taking Computer Science classes at edX while working. I am currently working on CS50 Web Programming.
+
+I would like to learn cryptography and mathematical optimization in the future. 
+
+## 🎓 Education
+
+- **Bachelor** Kyoto University, Faculty of Science
+
+- **Master** Kyoto University, Research Institute for Mathematical Science, on Discrete Optimization
+
+- **Verified Certificate** Harvard, CS50 Web Programming with Python and JavaScript (in progress !)
+
+## 🔭 GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=github_dark&show_icons=true)
+
+## :bar_chart: My Coding Activity
+
+<!--START_SECTION:waka-->
+
+```text
+From: 03 October 2022 - To: 10 October 2022
+
+Total Time: 11 hrs 4 mins
+
+JavaScript   4 hrs 47 mins   ██████████▓░░░░░░░░░░░░░░   43.28 %
+HTML         1 hr 26 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
+PowerShell   1 hr 22 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
+Python       1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
+Docker       58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+YAML         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+```
+
+<!--END_SECTION:waka-->
 
 [![](https://raw.githubusercontent.com/Seasawher/Seasawher/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Seasawher/Seasawher/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-### 仕事で使っているもの
+## 🧰 Tools experienced
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 	![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery,laravel,django&theme=dark)](https://skillicons.dev)
 
-### 仕事に限らず経験したもの
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,git,docker,vscode&theme=dark)](https://skillicons.dev)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) 
-
-### 使いたくて勉強中のもの
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-## :sparkles: 好きなもの
+## :sparkles: What I like...
 
 [awesomeList](./awesomeList.md)を参照のこと．
 
-## 📫 SNSなど
+## 📫 SNS, Blogs...
 
 * [Twitter](https://twitter.com/seasawher)...一応アカウントを持っていますが，あまり見ていません．
 
 * [Blog](https://seasawher.hatenablog.com/)...日記ブログです．不定期で更新しています．
 
-## :bow: 謝辞など
+* [GitBook](https://kitamado.gitbook.io/diary/)...日記として運用しているGitBookのリポジトリ．
+
+## :bow: Acknowledgments
 
 * アイコンにしている画像は，みーなのキャラメーカー(β版) から拝借しました．
 
-* 経験した言語やフレームワークのバッジは [Markdown Badges](https://github.com/Ileriayo/markdown-badges) から拝借いたしました．
+* 経験した言語やフレームワークのバッジは [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons#icons-list) から拝借いたしました．
+
+* 統計情報を表示するのに [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) と [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) を拝借いたしました．
