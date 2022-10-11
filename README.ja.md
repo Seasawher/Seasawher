@@ -24,11 +24,11 @@
 
 * **履修** Harvard大学，CS50 Web Programming with Python and JavaScript を履修中
 
-## 🔭 GitHub Stats
+## 🔭 GitHubの統計
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=github_dark&show_icons=true)
 
-## 📊 My Coding Activity
+## 📊 コーディングの統計
 
 ### [WakaTime](https://wakatime.com/)
 
@@ -53,17 +53,17 @@ YAML         29 mins         █░░░░░░░░░░░░░░░░
 
 [![profile summary card, most commit language](profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![profile summary card, repos per language](profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## 🧰 Tools experienced
+## 🧰 経験したツール
 
 [![My Skills Web](https://skillicons.dev/icons?i=bootstrap,jquery,laravel,django&theme=dark)](https://skillicons.dev)
 
 [![My Skills Others](https://skillicons.dev/icons?i=mysql,sqlite,git,docker,vscode&theme=dark)](https://skillicons.dev)
 
-## ✨ What I like
+## ✨ 好きなもの
 
 私の[awesomeList](./awesomeList.md)を参照してください. (日本語のみです)
 
-## 📫 Contact, SNS, Blogs
+## 📫 連絡先, SNS, Blog
 
 * [Twitter](https://twitter.com/seasawher)...ほぼ見ていないので，ここに連絡しないでください．
 
@@ -71,7 +71,6 @@ YAML         29 mins         █░░░░░░░░░░░░░░░░
 
 * [GitBook](https://kitamado.gitbook.io/diary/)...公開メモ帳です．
 
-## 🙇 Acknowledgments
+## 🙇 謝辞
 
 * GitHubのアイコンに使用している画像は，みーなのキャラメーカー(β版) からお借りしました．(もう存在しないサービスです)
-
