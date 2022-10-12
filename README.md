@@ -65,7 +65,7 @@ See my [awesomeList](./awesomeList.md). (Japanese only)
 
 ## 📫 Contact, SNS, Blogs
 
-* [Twitter](https://twitter.com/seasawher)...I have an twitter account, but please do not contact me here.
+* [Twitter](https://twitter.com/seasawher)...I have a Twitter account, but please do not contact me here.
 
 * [Blog](https://seasawher.hatenablog.com/)...My blog on math.
 
