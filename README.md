@@ -35,16 +35,16 @@ I would like to learn cryptography and mathematical optimization in the future.
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 October 2022 - To: 10 October 2022
+From: 04 October 2022 - To: 11 October 2022
 
-Total Time: 11 hrs 4 mins
+Total Time: 12 hrs 28 mins
 
-JavaScript   4 hrs 47 mins   ██████████▓░░░░░░░░░░░░░░   43.28 %
-HTML         1 hr 26 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
-PowerShell   1 hr 22 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
-Python       1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
-Docker       58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
-YAML         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+JavaScript   4 hrs 47 mins   █████████▓░░░░░░░░░░░░░░░   38.41 %
+HTML         1 hr 41 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
+Markdown     1 hr 30 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
+Python       1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+PowerShell   1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+JSON         50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
 ```
 
 <!--END_SECTION:waka-->
