@@ -26,7 +26,7 @@ I would like to learn cryptography and mathematical optimization in the future.
 
 ## 🔭 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=github_dark&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :bar_chart: My Coding Activity
 
