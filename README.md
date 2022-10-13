@@ -55,6 +55,8 @@ Docker       25 mins         █░░░░░░░░░░░░░░░░
 
 ## :punch: Karate Punches of Gratitude
 
+Mathematics and computer science have given color to my life...
+
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher?ext=heatmap)](https://github.com/JacobLinCool/LeetCode-Stats-Card)
 
 ## 🧰 Tools experienced
