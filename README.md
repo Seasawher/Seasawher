@@ -53,7 +53,7 @@ Docker       25 mins         █░░░░░░░░░░░░░░░░
 
 [![profile summary card, most commit language](profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![profile summary card, repos per language](profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## :punch: Karate Punches of Graitude
+## :punch: Karate Punches of Gratitude
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher)
 
