@@ -53,6 +53,10 @@ YAML         29 mins         █░░░░░░░░░░░░░░░░
 
 [![profile summary card, most commit language](profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![profile summary card, repos per language](profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+## :punch: 感謝の正拳突き
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher)
+
 ## 🧰 経験したツール
 
 [![My Skills Web](https://skillicons.dev/icons?i=bootstrap,jquery,laravel,django&theme=dark)](https://skillicons.dev)
