@@ -30,7 +30,7 @@ I would like to learn cryptography and mathematical optimization in the future.
 
 ## :bar_chart: My Coding Activity
 
-### [WakaTime](https://wakatime.com/)
+### [WakaTime Stats](https://github.com/marketplace/actions/waka-readme)
 
 <!--START_SECTION:waka-->
 
