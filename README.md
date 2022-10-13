@@ -53,6 +53,10 @@ Docker       25 mins         █░░░░░░░░░░░░░░░░
 
 [![profile summary card, most commit language](profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![profile summary card, repos per language](profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+## :punch: Karate with Gratitude
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher)
+
 ## 🧰 Tools experienced
 
 [![My Skills Web](https://skillicons.dev/icons?i=bootstrap,jquery,laravel,django&theme=dark)](https://skillicons.dev)
