@@ -55,7 +55,7 @@ Docker       25 mins         █░░░░░░░░░░░░░░░░
 
 ## :punch: Karate Punches of Gratitude
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher)](https://leetcode.com/Seasawher/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher)](https://github.com/JacobLinCool/LeetCode-Stats-Card)
 
 ## 🧰 Tools experienced
 
