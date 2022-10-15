@@ -24,7 +24,9 @@ I would like to learn cryptography and mathematical optimization in the future.
 
 * **Verified Certificate** Harvard, CS50 Web Programming with Python and JavaScript (in progress !)
 
-## 🔭 GitHub Contributions
+## 🔭 GitHub Summary
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://raw.githubusercontent.com/Seasawher/Seasawher/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
