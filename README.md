@@ -6,8 +6,6 @@
 
 I'm Kitamado. I majored in mathematics (number theory and discrete optimization) at university.
 
-I have a Master's degree in Mathematics.
-
 I'm working on web development now.
 
 Here are languages and tools I've ever used.
