@@ -12,7 +12,7 @@ I'm working on web development now.
 
 Here are languages and tools I've ever used.
 
-<div align="center">
+<div>
     <table>
         <thead>
             <th>type</th>
