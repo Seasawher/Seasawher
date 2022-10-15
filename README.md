@@ -8,42 +8,42 @@ I'm Kitamado. I majored in mathematics (number theory and discrete optimization)
 
 I have a Master's degree in Mathematics.
 
-I'm working on web development now. 
+I'm working on web development now.
 
 Here are languages and tools I've ever used.
 
 <div align="center">
     <table>
-      <thead>
-        <th>type</th>
-        <th>skill icons</th>
-      </thead>
-      <tbody>
-        <tr>
-        <td>language</td>
-        <td>
-          <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=latex,php,html,css,javascript,python,typescript" />
-          </a>
-        </td>
-        </tr>
-        <tr>
-        <td>framework</td>
-        <td>
-          <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=bootstrap,jquery,laravel,django" />
-          </a>
-        </td>
-        </tr>
-        <tr>
-          <td>others</td>
-          <td>
-            <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,docker,vscode" />
-            </a>
-          </td>
-        </tr>
-      </tbody>
+        <thead>
+            <th>type</th>
+            <th>skill icons</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>language</td>
+                <td>
+                    <a href="https://skillicons.dev">
+                        <img src="https://skillicons.dev/icons?i=latex,php,html,css,javascript,python,typescript" />
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>framework</td>
+                <td>
+                    <a href="https://skillicons.dev">
+                        <img src="https://skillicons.dev/icons?i=bootstrap,jquery,laravel,django" />
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>others</td>
+                <td>
+                    <a href="https://skillicons.dev">
+                        <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,docker,vscode" />
+                    </a>
+                </td>
+            </tr>
+        </tbody>
     </table>
 </div>
 
