@@ -57,7 +57,7 @@ INI          9 mins          ▒░░░░░░░░░░░░░░░░
 
 ❤️ Mathematics and computer science have given color to my life... ❤️
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher?ext=heatmap&theme=dark)](https://github.com/JacobLinCool/LeetCode-Stats-Card)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher?ext=heatmap&theme=nord)](https://github.com/JacobLinCool/LeetCode-Stats-Card)
 
 ## 🧰 Tools experienced
 
