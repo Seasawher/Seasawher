@@ -12,7 +12,7 @@ I'm working on web development now.
 
 Here are languages and tools I've ever used.
 
-<p align="center">
+<p align="center" style="display: flex; flex-wrap: wrap;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=latex,php,html,css,javascript,python,bootstrap,jquery,laravel,django,mysql,sqlite,git,docker,vscode" />
   </a>
