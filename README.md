@@ -44,13 +44,13 @@ I would like to learn cryptography and mathematical optimization in the future.
 
 * **Verified Certificate** Harvard, CS50 Web Programming with Python and JavaScript (in progress !)
 
-## 🔭 GitHub Summary
+## :bar_chart: My Coding Activity
+
+### GitHub Summary
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://raw.githubusercontent.com/Seasawher/Seasawher/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-## :bar_chart: My Coding Activity
+[![Profile Details](https://raw.githubusercontent.com/Seasawher/Seasawher/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### [WakaTime Stats](https://github.com/marketplace/actions/waka-readme)
 
@@ -71,7 +71,7 @@ INI          9 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### Profile Summary Cards
+### Languages
 
 [![profile summary card, most commit language](profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![profile summary card, repos per language](profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
