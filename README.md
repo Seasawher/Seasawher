@@ -8,7 +8,15 @@ I'm Kitamado. I majored in mathematics (number theory and discrete optimization)
 
 I have a Master's degree in Mathematics.
 
-I'm working on web development now.
+I'm working on web development now. 
+
+Here are languages and tools I've ever used.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=latex,php,html,css,javascript,python,bootstrap,jquery,laravel,django,mysql,sqlite,git,docker,vscode" />
+  </a>
+</p>
 
 ## 🌱 I wish to do
 
@@ -61,11 +69,13 @@ INI          9 mins          ▒░░░░░░░░░░░░░░░░
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher?ext=heatmap&theme=nord)](https://github.com/JacobLinCool/LeetCode-Stats-Card)
 
+<!--
 ## 🧰 Tools experienced
 
 [![My Skills Web](https://skillicons.dev/icons?i=bootstrap,jquery,laravel,django&theme=dark)](https://skillicons.dev)
 
 [![My Skills Others](https://skillicons.dev/icons?i=mysql,sqlite,git,docker,vscode&theme=dark)](https://skillicons.dev)
+-->
 
 ## :sparkles: What I like
 
