@@ -10,14 +10,15 @@ I'm working on web development now.
 
 Here are languages and tools I've ever used.
 
-| type            | skill icons                                                                                            |
-| --------------- | ------------------------------------------------------------------------------------------------------ |
-| markup language | [![My Skills](https://skillicons.dev/icons?i=latex,html,md)](https://skillicons.dev)                   |
-| shell script    | [![My Skills](https://skillicons.dev/icons?i=bash,powershell)](https://skillicons.dev)                 |
-| other languages | [![My Skills](https://skillicons.dev/icons?i=php,css,js,python,typescript)](https://skillicons.dev)    |
-| framework       | [![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery,django,laravel)](https://skillicons.dev) |
-| database        | [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)                    |
-| other tools     | [![My Skills](https://skillicons.dev/icons?i=git,docker,vscode)](https://skillicons.dev)               |
+| type                     | skill icons                                                                                            |
+| ------------------------ | ------------------------------------------------------------------------------------------------------ |
+| markup language          | [![My Skills](https://skillicons.dev/icons?i=latex,md)](https://skillicons.dev)                   |
+| shell script             | [![My Skills](https://skillicons.dev/icons?i=bash,powershell)](https://skillicons.dev)                 |
+| languages for web, maybe | [![My Skills](https://skillicons.dev/icons?i=php,html,css,js)](https://skillicons.dev)    |
+| general-purpose language | [![My Skills](https://skillicons.dev/icons?i=python,typescript)](https://skillicons.dev)    |
+| framework                | [![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery,django,laravel)](https://skillicons.dev) |
+| database                 | [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)                    |
+| other tools              | [![My Skills](https://skillicons.dev/icons?i=git,docker,vscode)](https://skillicons.dev)               |
 
 ## 🌱 I wish to do
 
