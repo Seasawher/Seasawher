@@ -25,15 +25,14 @@ Here are languages and tools I've ever used.
 
 I am taking Computer Science classes at edX while working. I am currently working on CS50 Web Programming.
 
-I would like to learn cryptography and mathematical optimization in the future.
+I would like to learn **cryptography** and **mathematical optimization** in the future.
 
 ## 🎓 Education
 
-* **Bachelor** Kyoto University, Faculty of Science
-
-* **Master** Kyoto University, Research Institute for Mathematical Science, on Discrete Optimization
-
-* **Verified Certificate** Harvard, CS50 Web Programming with Python and JavaScript (in progress !)
+| Degree   | Institute                                   | Description              |
+| -------- | ------------------------------------------- | ------------------------ |
+| Bachelor | Kyoto University                            | Faculty of Science       |
+| Master   | Research Institute for Mathematical Science | on Discrete Optimization |
 
 ## :bar_chart: My Coding Activity
 
