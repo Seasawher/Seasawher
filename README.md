@@ -12,40 +12,14 @@ I'm working on web development now.
 
 Here are languages and tools I've ever used.
 
-<div>
-    <table>
-        <thead>
-            <th>type</th>
-            <th>skill icons</th>
-        </thead>
-        <tbody>
-            <tr>
-                <td>language</td>
-                <td>
-                    <a href="https://skillicons.dev">
-                        <img src="https://skillicons.dev/icons?i=latex,php,html,css,javascript,python,typescript" />
-                    </a>
-                </td>
-            </tr>
-            <tr>
-                <td>framework</td>
-                <td>
-                    <a href="https://skillicons.dev">
-                        <img src="https://skillicons.dev/icons?i=bootstrap,jquery,laravel,django" />
-                    </a>
-                </td>
-            </tr>
-            <tr>
-                <td>others</td>
-                <td>
-                    <a href="https://skillicons.dev">
-                        <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,docker,vscode" />
-                    </a>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+| type            | skill icons                                                                                            |
+| --------------- | ------------------------------------------------------------------------------------------------------ |
+| markup language | [![My Skills](https://skillicons.dev/icons?i=latex,html,md)](https://skillicons.dev)                   |
+| shell script    | [![My Skills](https://skillicons.dev/icons?i=bash,powershell)](https://skillicons.dev)                 |
+| other languages | [![My Skills](https://skillicons.dev/icons?i=php,css,js,python,typescript)](https://skillicons.dev)    |
+| framework       | [![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery,django,laravel)](https://skillicons.dev) |
+| database        | [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)                    |
+| other tools     | [![My Skills](https://skillicons.dev/icons?i=git,docker,vscode)](https://skillicons.dev)               |
 
 ## 🌱 I wish to do
 
