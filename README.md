@@ -98,14 +98,6 @@ INI          9 mins          ▒░░░░░░░░░░░░░░░░
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher?ext=heatmap&theme=nord)](https://github.com/JacobLinCool/LeetCode-Stats-Card)
 
-<!--
-## 🧰 Tools experienced
-
-[![My Skills Web](https://skillicons.dev/icons?i=bootstrap,jquery,laravel,django&theme=dark)](https://skillicons.dev)
-
-[![My Skills Others](https://skillicons.dev/icons?i=mysql,sqlite,git,docker,vscode&theme=dark)](https://skillicons.dev)
--->
-
 ## :sparkles: What I like
 
 See my [awesomeList](./awesomeList.md). (Japanese only)
