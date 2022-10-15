@@ -12,9 +12,21 @@ I'm working on web development now.
 
 Here are languages and tools I've ever used.
 
-<p align="center" style="display: flex; flex-wrap: wrap;">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=latex,php,html,css,javascript,python,bootstrap,jquery,laravel,django,mysql,sqlite,git,docker,vscode" />
+    <img src="https://skillicons.dev/icons?i=latex,php,html,css,javascript,python,typescript" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,laravel,django" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,docker,vscode" />
   </a>
 </p>
 
