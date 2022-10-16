@@ -10,7 +10,7 @@ I'm working on web development now.
 
 Here are languages and tools I've ever used.
 
-| type                     | skill icons                                                                                            |
+| description              | skill icons                                                                                            |
 | ------------------------ | ------------------------------------------------------------------------------------------------------ |
 | markup language          | [![My Skills](https://skillicons.dev/icons?i=latex,md,,)](https://skillicons.dev)                   |
 | shell script             | [![My Skills](https://skillicons.dev/icons?i=bash,powershell,,)](https://skillicons.dev)                 |
