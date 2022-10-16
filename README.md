@@ -1,7 +1,5 @@
 # HELLO WORLD
 
-* [日本語版はこちら](./README.ja.md)
-
 ## 👋 Hi there
 
 I'm Kitamado. I majored in mathematics (number theory and discrete optimization) at university.
