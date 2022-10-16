@@ -12,13 +12,13 @@ Here are languages and tools I've ever used.
 
 | description              | skill icons                                                                                            |
 | ------------------------ | ------------------------------------------------------------------------------------------------------ |
-| markup language          | [![My Skills](https://skillicons.dev/icons?i=latex,md,,)](https://skillicons.dev)                   |
-| shell script             | [![My Skills](https://skillicons.dev/icons?i=bash,powershell,,)](https://skillicons.dev)                 |
-| languages for web, maybe | [![My Skills](https://skillicons.dev/icons?i=php,html,css,js)](https://skillicons.dev)    |
-| general-purpose language | [![My Skills](https://skillicons.dev/icons?i=python,typescript,,)](https://skillicons.dev)    |
+| markup language          | [![My Skills](https://skillicons.dev/icons?i=latex,md,,)](https://skillicons.dev)                      |
+| shell script             | [![My Skills](https://skillicons.dev/icons?i=bash,powershell,,)](https://skillicons.dev)               |
+| languages for web, maybe | [![My Skills](https://skillicons.dev/icons?i=php,html,css,js)](https://skillicons.dev)                 |
+| general-purpose language | [![My Skills](https://skillicons.dev/icons?i=python,typescript,,)](https://skillicons.dev)             |
 | framework                | [![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery,django,laravel)](https://skillicons.dev) |
-| database                 | [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,,)](https://skillicons.dev)                    |
-| other tools              | [![My Skills](https://skillicons.dev/icons?i=git,docker,vscode,)](https://skillicons.dev)               |
+| database                 | [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,,)](https://skillicons.dev)                  |
+| other tools              | [![My Skills](https://skillicons.dev/icons?i=git,docker,vscode,)](https://skillicons.dev)              |
 
 ## 🌱 I wish to do
 
@@ -76,11 +76,11 @@ See my [awesomeList](./awesomeList.md). (Japanese only)
 
 ## 📫 Contact, SNS, Blogs
 
-* [Twitter](https://twitter.com/seasawher)...I have a Twitter account, but please do not contact me here.
-
-* [Blog](https://seasawher.hatenablog.com/)...My blog on math.
-
-* [GitBook](https://kitamado.gitbook.io/diary/)...My public memo.
+| place                                                                                                                                            | state     | description                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------------------------------------------------------------ |
+| [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/seasawher) | abandoned | please do not contact me here. |
+| [Hatena Blog](https://seasawher.hatenablog.com/)                                                                                                 | idle time | my blog on math                                              |
+| [![gitbook](https://img.shields.io/badge/gitbook--gray.svg?style=for-the-badge&logo=gitbook)](https://kitamado.gitbook.io/diary/)                | active    | my public memo                                               |
 
 ## :bow: Acknowledgments
 
