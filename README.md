@@ -76,11 +76,11 @@ See my [awesomeList](./awesomeList.md). (Japanese only)
 
 ## 📫 Links
 
-| website                                                                                                                                            | state     | description                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------------------------------------------------------------ |
+| website                                                                                                                                          | state     | description                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------------------------------ |
 | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/seasawher) | abandoned | please do not contact me here. |
-| [Hatena Blog](https://seasawher.hatenablog.com/)                                                                                                 | idle time | my blog on math                                              |
-| [![gitbook](https://img.shields.io/badge/gitbook--gray.svg?style=for-the-badge&logo=gitbook)](https://kitamado.gitbook.io/diary/)                | active    | my public memo                                               |
+| [Hatena Blog](https://seasawher.hatenablog.com/)                                                                                                 | idle time | my blog on math                |
+| [![gitbook](https://img.shields.io/badge/gitbook--gray.svg?style=for-the-badge&logo=gitbook)](https://kitamado.gitbook.io/diary/)                | active    | my public memo                 |
 
 ## :bow: Acknowledgments
 
