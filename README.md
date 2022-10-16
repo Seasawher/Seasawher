@@ -68,7 +68,7 @@ INI          9 mins          ▒░░░░░░░░░░░░░░░░
 
 ❤️ Mathematics and computer science have given color to my life... ❤️
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher?ext=heatmap&theme=nord)](https://github.com/JacobLinCool/LeetCode-Stats-Card)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher?ext=heatmap&theme=nord)](https://leetcode.com/Seasawher/)
 
 ## :sparkles: What I like
 
@@ -78,15 +78,15 @@ See my [awesomeList](./awesomeList.md). (Japanese only)
 
 ### StackOverflow
 
-[![My StackOverflow profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/19453583?theme=monokai)](https://github.com/johannchopin/stackoverflow-readme-profile)
+[![My StackOverflow profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/19453583?theme=monokai)](https://stackoverflow.com/users/19453583/kitamado?tab=profile)
 
 ### Others
 
 | website                                                                                                                                          | state     | description                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------------------------------ |
 | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/seasawher) | abandoned | please do not contact me here. |
-| [Hatena Blog](https://seasawher.hatenablog.com/)                                                                                                 | idle time | my blog on math                |
 | [![gitbook](https://img.shields.io/badge/gitbook--gray.svg?style=for-the-badge&logo=gitbook)](https://kitamado.gitbook.io/diary/)                | active    | my public memo                 |
+| [Hatena Blog](https://seasawher.hatenablog.com/)                                                                                                 | idle time | my blog on math                |
 
 ## :bow: Acknowledgments
 
