@@ -24,7 +24,7 @@ Here are languages and tools I've ever used.
 
 I am taking Computer Science classes at edX while working. I am currently working on CS50 Web Programming.
 
-I would like to learn **cryptography** and **mathematical optimization** in the future.
+I would like to learn cryptography and mathematical optimization in the future.
 
 ## 🎓 Education
 
@@ -75,6 +75,12 @@ INI          9 mins          ▒░░░░░░░░░░░░░░░░
 See my [awesomeList](./awesomeList.md). (Japanese only)
 
 ## 📫 Links
+
+### StackOverflow
+
+[![My StackOverflow profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/19453583?theme=monokai)](https://github.com/johannchopin/stackoverflow-readme-profile)
+
+### Others
 
 | website                                                                                                                                          | state     | description                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------------------------------ |
