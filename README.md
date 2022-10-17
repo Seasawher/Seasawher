@@ -74,16 +74,7 @@ See my [awesomeList](./awesomeList.md). (Japanese only)
 
 ## 📫 Links
 
-### StackOverflow
-
 [![My StackOverflow profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/19453583?theme=monokai)](https://stackoverflow.com/users/19453583/kitamado?tab=profile)
-
-### Others
-
-| website                                                                                                                                          | state     | description                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------------------------------ |
-| [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/seasawher) | abandoned | please do not contact me here. |
-| [Hatena Blog](https://seasawher.hatenablog.com/)                                                                                                 | idle time | my blog on math                |
 
 ## :bow: Acknowledgments
 
