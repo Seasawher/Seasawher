@@ -22,7 +22,7 @@ Here are languages and tools I've ever used.
 
 I am taking Computer Science classes at edX while working. I am currently working on CS50 Web Programming.
 
-I would like to learn cryptography and mathematical optimization in the future.
+I'm really more interested in security and cryptography than web development.
 
 ## 🎓 Education
 
