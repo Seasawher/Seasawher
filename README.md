@@ -24,6 +24,11 @@ I am taking Computer Science classes at edX while working. I am currently workin
 
 I'm really more interested in security and cryptography than web development.
 
+| service name | profile page                                                     |
+| ------------ | ---------------------------------------------------------------- |
+| HackTheBox   | ![My HTB Profile](https://www.hackthebox.eu/badge/image/1249528) |
+| CryptoHack   | [My CryptoHack Profile](https://cryptohack.org/user/seasawher/)  |
+
 ## 🎓 Education
 
 | Degree   | Institute                                   | Description              |
