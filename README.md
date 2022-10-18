@@ -4,32 +4,9 @@
 
 I'm Kitamado. I majored in mathematics (number theory and discrete optimization) at university.
 
-I'm working on web development now.
+I'm working on web development (Laravel, MySQL) now.
 
-Here are languages and tools I've ever used.
-
-| description              | skill icons                                                                                            |
-| ------------------------ | ------------------------------------------------------------------------------------------------------ |
-| markup language          | [![My Skills](https://skillicons.dev/icons?i=latex,md,,)](https://skillicons.dev)                      |
-| shell script             | [![My Skills](https://skillicons.dev/icons?i=bash,powershell,,)](https://skillicons.dev)               |
-| languages for web, maybe | [![My Skills](https://skillicons.dev/icons?i=php,html,css,js)](https://skillicons.dev)                 |
-| general-purpose language | [![My Skills](https://skillicons.dev/icons?i=python,typescript,,)](https://skillicons.dev)             |
-| framework                | [![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery,django,laravel)](https://skillicons.dev) |
-| database                 | [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,,)](https://skillicons.dev)                  |
-| other tools              | [![My Skills](https://skillicons.dev/icons?i=git,docker,vscode,)](https://skillicons.dev)              |
-
-## 🌱 I wish to do
-
-I am taking Computer Science classes at edX while working. I am currently working on CS50 Web Programming.
-
-I'm really more interested in security and cryptography than web development.
-
-| service name | profile page                                                                                                   |
-| ------------ | -------------------------------------------------------------------------------------------------------------- |
-| HackTheBox   | [![My HTB Profile](https://www.hackthebox.eu/badge/image/1249528)](https://app.hackthebox.com/profile/1249528) |
-| CryptoHack   | [My CryptoHack Profile](https://cryptohack.org/user/seasawher/)                                               |
-
-There is still a long way to go....
+I am interested in cyber security and cryptography and would like to learn more.
 
 ## 🎓 Education
 
@@ -38,42 +15,40 @@ There is still a long way to go....
 | Bachelor | Kyoto University                            | Faculty of Science       |
 | Master   | Research Institute for Mathematical Science | on Discrete Optimization |
 
-## :bar_chart: My Coding Activity
+## 🌱 I'm working on now
 
-### GitHub Summary
+### edX
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+I am taking Computer Science classes at edX. I am currently working on CS50 Web Programming (Python, Django and JavaScript).
 
-[![Profile Details](https://raw.githubusercontent.com/Seasawher/Seasawher/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+### LeetCode
 
-### [WakaTime Stats](https://github.com/marketplace/actions/waka-readme)
+I recently started working with LeetCode and prefer to use TypeScript.
 
-<!--START_SECTION:waka-->
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher?ext=activity&theme=nord)](https://leetcode.com/Seasawher/)
 
-```text
-From: 09 October 2022 - To: 16 October 2022
+### Learn cyber security and cryptography
 
-Total Time: 13 hrs 24 mins
+There is still a long way to go.... :smiling_face_with_tear:
 
-JavaScript   3 hrs 51 mins   ███████▒░░░░░░░░░░░░░░░░░   28.83 %
-Markdown     3 hrs 41 mins   ███████░░░░░░░░░░░░░░░░░░   27.58 %
-HTML         2 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
-JSON         1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
-TypeScript   51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
-Python       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-```
+| service name | profile page                                                                                                   |
+| ------------ | -------------------------------------------------------------------------------------------------------------- |
+| HackTheBox   | [![My HTB Profile](https://www.hackthebox.eu/badge/image/1249528)](https://app.hackthebox.com/profile/1249528) |
+| CryptoHack   | [My CryptoHack Profile](https://cryptohack.org/user/seasawher/)                                               |
 
-<!--END_SECTION:waka-->
+## :bar_chart: Stats and summary
+
+### Tools by use
+
+| when to use | skills |
+|---|---|
+| daily work | [![My Skills on work](https://skillicons.dev/icons?i=php,laravel,mysql)](https://skillicons.dev) |
+| on LeetCode | [![lang to work on LeetCode](https://skillicons.dev/icons?i=typescript,,,)](https://skillicons.dev) |
+| on edX | [![My Skills on edX](https://skillicons.dev/icons?i=python,django,sqlite)](https://skillicons.dev) |
 
 ### Languages
 
 [![profile summary card, most commit language](profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![profile summary card, repos per language](profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-## :punch: Karate Punches of Gratitude
-
-❤️ Mathematics and computer science have given color to my life... ❤️
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher?ext=activity&theme=nord)](https://leetcode.com/Seasawher/)
 
 ## :sparkles: What I like
 
@@ -85,4 +60,4 @@ See my [awesomeList](./awesomeList.md). (Japanese only)
 
 ## :bow: Acknowledgments
 
-* The image used as my github icon: みーなのキャラメーカー(β版) (This service no longer exists)
+The image used as my github icon: みーなのキャラメーカー(β版) (This service no longer exists)
