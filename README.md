@@ -43,7 +43,7 @@ There is still a long way to go.... :smiling_face_with_tear:
 | when to use | skills                                                                                              |
 | ----------- | --------------------------------------------------------------------------------------------------- |
 | daily work  | [![My Skills on work](https://skillicons.dev/icons?i=php,laravel,mysql)](https://skillicons.dev)    |
-| on LeetCode | [![lang to work on LeetCode](https://skillicons.dev/icons?i=typescript,,,)](https://skillicons.dev) |
+| on LeetCode | [![lang to work on LeetCode](https://skillicons.dev/icons?i=typescript,,)](https://skillicons.dev) |
 | on edX      | [![My Skills on edX](https://skillicons.dev/icons?i=python,django,sqlite)](https://skillicons.dev)  |
 
 ### Languages
