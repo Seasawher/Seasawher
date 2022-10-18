@@ -51,16 +51,16 @@ There is still a long way to go....
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 October 2022 - To: 16 October 2022
+From: 10 October 2022 - To: 17 October 2022
 
-Total Time: 13 hrs 24 mins
+Total Time: 13 hrs 59 mins
 
-JavaScript   3 hrs 51 mins   ███████▒░░░░░░░░░░░░░░░░░   28.83 %
-Markdown     3 hrs 41 mins   ███████░░░░░░░░░░░░░░░░░░   27.58 %
-HTML         2 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
-JSON         1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
-TypeScript   51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
-Python       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Markdown     3 hrs 54 mins   ███████░░░░░░░░░░░░░░░░░░   27.88 %
+JavaScript   3 hrs 49 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.29 %
+HTML         2 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.75 %
+JSON         1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+TypeScript   1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+Python       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
 ```
 
 <!--END_SECTION:waka-->
