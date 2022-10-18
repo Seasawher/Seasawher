@@ -34,17 +34,17 @@ There is still a long way to go.... :smiling_face_with_tear:
 | service name | profile page                                                                                                   |
 | ------------ | -------------------------------------------------------------------------------------------------------------- |
 | HackTheBox   | [![My HTB Profile](https://www.hackthebox.eu/badge/image/1249528)](https://app.hackthebox.com/profile/1249528) |
-| CryptoHack   | [My CryptoHack Profile](https://cryptohack.org/user/seasawher/)                                               |
+| CryptoHack   | [My CryptoHack Profile](https://cryptohack.org/user/seasawher/)                                                |
 
 ## :bar_chart: Stats and summary
 
 ### Tools by use
 
-| when to use | skills |
-|---|---|
-| daily work | [![My Skills on work](https://skillicons.dev/icons?i=php,laravel,mysql)](https://skillicons.dev) |
+| when to use | skills                                                                                              |
+| ----------- | --------------------------------------------------------------------------------------------------- |
+| daily work  | [![My Skills on work](https://skillicons.dev/icons?i=php,laravel,mysql)](https://skillicons.dev)    |
 | on LeetCode | [![lang to work on LeetCode](https://skillicons.dev/icons?i=typescript,,,)](https://skillicons.dev) |
-| on edX | [![My Skills on edX](https://skillicons.dev/icons?i=python,django,sqlite)](https://skillicons.dev) |
+| on edX      | [![My Skills on edX](https://skillicons.dev/icons?i=python,django,sqlite)](https://skillicons.dev)  |
 
 ### Languages
 
