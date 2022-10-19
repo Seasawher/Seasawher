@@ -38,7 +38,7 @@ There is still a long way to go.... :smiling_face_with_tear:
 
 ## :bar_chart: Stats and summary
 
-### Tools by use
+### Tool Stack
 
 | when to use | skills                                                                                              |
 | ----------- | --------------------------------------------------------------------------------------------------- |
