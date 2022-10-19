@@ -62,4 +62,10 @@ See my [awesomeList](./awesomeList.md). (Japanese only)
 
 ## :bow: Acknowledgments
 
-The image used as my github icon: みーなのキャラメーカー(β版) (This service no longer exists)
+* The image used as my github icon - みーなのキャラメーカー(β版) (This service no longer exists)
+
+* Skill icons in my tool stack - [Skill Icons](https://skillicons.dev/)
+
+* Summary cards of my github profile - [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+* My LeetCode stats embedded in github - [LeetCode Stats Card](https://github.com/JacobLinCool/LeetCode-Stats-Card)
