@@ -29,7 +29,7 @@ I recently started working with LeetCode and prefer to use TypeScript.
 
 ### Learn cyber security and cryptography
 
-There is still a long way to go.... :smiling_face_with_tear:
+There is still a long way to go....
 
 ![My CryptoHack Profile](./img/cryptoHack_profile.jpg)
 
