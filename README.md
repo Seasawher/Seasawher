@@ -31,8 +31,6 @@ I recently started working with LeetCode and prefer to use TypeScript.
 
 There is still a long way to go.... :smiling_face_with_tear:
 
-![My CryptoHack Profile](./img/cryptoHack_profile.jpg)
-
 | service name | profile page                                                                                                   |
 | ------------ | -------------------------------------------------------------------------------------------------------------- |
 | HackTheBox   | [![My HTB Profile](https://www.hackthebox.eu/badge/image/1249528)](https://app.hackthebox.com/profile/1249528) |
