@@ -8,13 +8,6 @@ I'm working on web development (Laravel, MySQL) now.
 
 I am interested in cyber security and cryptography and would like to learn more.
 
-## 🎓 Education
-
-| Degree   | Institute                                   | Description              |
-| -------- | ------------------------------------------- | ------------------------ |
-| Bachelor | Kyoto University                            | Faculty of Science       |
-| Master   | Research Institute for Mathematical Science | on Discrete Optimization |
-
 ## 🌱 I'm working on now
 
 ### edX
