@@ -8,13 +8,6 @@ I'm working on web development (Laravel, MySQL) now.
 
 I am interested in cyber security and cryptography and would like to learn more.
 
-## 🎓 Education
-
-| Degree   | Institute                                   | Description              |
-| -------- | ------------------------------------------- | ------------------------ |
-| Bachelor | Kyoto University                            | Faculty of Science       |
-| Master   | Research Institute for Mathematical Science | on Discrete Optimization |
-
 ## 🌱 I'm working on now
 
 ### edX
@@ -29,7 +22,7 @@ I recently started working with LeetCode and prefer to use TypeScript.
 
 ### Learn cyber security and cryptography
 
-There is still a long way to go.... :smiling_face_with_tear:
+There is still a long way to go....
 
 | service name | profile page                                                                                                   |
 | ------------ | -------------------------------------------------------------------------------------------------------------- |
