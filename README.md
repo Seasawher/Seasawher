@@ -10,17 +10,17 @@ I am interested in cyber security and cryptography and would like to learn more.
 
 ## 🌱 I'm working on now
 
-### edX
+### :school: edX
 
 I am taking Computer Science classes at edX. I am currently working on CS50 Web Programming (Python, Django and JavaScript).
 
-### LeetCode
+### :punch: LeetCode
 
 I recently started working with LeetCode and prefer to use TypeScript.
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher?ext=activity&theme=nord)](https://leetcode.com/Seasawher/)
 
-### Learn cyber security and cryptography
+### :key: Learn cyber security and cryptography
 
 There is still a long way to go....
 
