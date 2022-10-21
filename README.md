@@ -31,7 +31,7 @@ There is still a long way to go....
 
 ## :bar_chart: Stats and summary
 
-### Tool Stack
+### Tech Stack
 
 | when to use | skills                                                                                                       |
 | ----------- | ------------------------------------------------------------------------------------------------------------ |
