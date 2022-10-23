@@ -14,24 +14,7 @@ I am interested in cyber security and cryptography and would like to learn more.
 
 I am taking Computer Science classes at edX. I am currently working on CS50 Web Programming (Python, Django and JavaScript).
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Seasawher&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--START_SECTION:waka-->
-
-```text
-From: 15 October 2022 - To: 22 October 2022
-
-Total Time: 12 hrs 44 mins
-
-Markdown     4 hrs           ████████░░░░░░░░░░░░░░░░░   31.48 %
-JavaScript   3 hrs 29 mins   ███████░░░░░░░░░░░░░░░░░░   27.41 %
-TypeScript   2 hrs 31 mins   █████░░░░░░░░░░░░░░░░░░░░   19.79 %
-Python       1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-HTML         48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-JSON         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-```
-
-<!--END_SECTION:waka-->
+![WakaTime Stats by proj](./images/wakatime_weekly_project_stats.svg)
 
 ### :punch: LeetCode
 
@@ -61,6 +44,8 @@ There is still a long way to go....
 |CryptoHack| [![My Skills on CryptoHack](https://skillicons.dev/icons?i=python,docker,,)](https://skillicons.dev) |
 
 ### Languages
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Seasawher&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![profile summary card, most commit language](profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![profile summary card, repos per language](profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
