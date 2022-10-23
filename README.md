@@ -24,11 +24,9 @@ I recently started working with LeetCode.
 
 ### :key: Learn cyber security and cryptography
 
-There is still a long way to go....
+I'm a player of HTB. But there is still a long way to go....
 
-| Profile Badge | Description                                                                                        |
-| ------------ | -------------------------------------------------------------------------------------------------------------- |
-| [![My HTB Profile](https://www.hackthebox.eu/badge/image/1249528)](https://app.hackthebox.com/profile/1249528)   | Hack The Box is a massive, online cybersecurity training platform. |
+[![My HTB Profile](https://www.hackthebox.eu/badge/image/1249528)](https://app.hackthebox.com/profile/1249528)
 
 ## :bar_chart: Stats and summary
 
