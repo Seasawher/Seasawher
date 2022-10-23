@@ -20,7 +20,7 @@ The following are the WakaTime Stats for the last 7 days.
 
 ### :punch: LeetCode
 
-I recently started working with LeetCode.
+I recently started working on LeetCode.
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher?ext=activity&theme=nord)](https://leetcode.com/Seasawher/)
 
