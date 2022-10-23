@@ -44,10 +44,6 @@ There is still a long way to go....
 
 [![profile summary card, most commit language](profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![profile summary card, repos per language](profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## :sparkles: What I like
-
-See my [awesomeList](./awesomeList.md). (Japanese only)
-
 ## 📫 Links
 
 [![My StackOverflow profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/19453583?theme=monokai)](https://stackoverflow.com/users/19453583/kitamado?tab=profile)
