@@ -41,7 +41,7 @@ I'm a player of HTB. But there is still a long way to go....
 
 ### Languages
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Seasawher&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Seasawher&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 [![profile summary card, most commit language](profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![profile summary card, repos per language](profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
