@@ -15,6 +15,20 @@ I am interested in cyber security and cryptography and would like to learn more.
 I am taking Computer Science classes at edX. I am currently working on CS50 Web Programming (Python, Django and JavaScript).
 
 <!--START_SECTION:waka-->
+
+```text
+From: 15 October 2022 - To: 22 October 2022
+
+Total Time: 12 hrs 44 mins
+
+Markdown     4 hrs           ████████░░░░░░░░░░░░░░░░░   31.48 %
+JavaScript   3 hrs 29 mins   ███████░░░░░░░░░░░░░░░░░░   27.41 %
+TypeScript   2 hrs 31 mins   █████░░░░░░░░░░░░░░░░░░░░   19.79 %
+Python       1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
+HTML         48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+JSON         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+```
+
 <!--END_SECTION:waka-->
 
 ### :punch: LeetCode
