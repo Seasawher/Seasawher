@@ -26,10 +26,9 @@ I recently started working with LeetCode.
 
 There is still a long way to go....
 
-| service name | profile page                                                                                                   |
+| Profile Badge | Description                                                                                        |
 | ------------ | -------------------------------------------------------------------------------------------------------------- |
-| HackTheBox   | [![My HTB Profile](https://www.hackthebox.eu/badge/image/1249528)](https://app.hackthebox.com/profile/1249528) |
-| CryptoHack   | [My CryptoHack Profile](https://cryptohack.org/user/seasawher/)                                                |
+| [![My HTB Profile](https://www.hackthebox.eu/badge/image/1249528)](https://app.hackthebox.com/profile/1249528)   | Hack The Box is a massive, online cybersecurity training platform. |
 
 ## :bar_chart: Stats and summary
 
