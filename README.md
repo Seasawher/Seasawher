@@ -14,7 +14,8 @@ I am interested in cyber security and cryptography and would like to learn more.
 
 I am taking Computer Science classes at edX. I am currently working on CS50 Web Programming (Python, Django and JavaScript).
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Seasawher&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### :punch: LeetCode
 
