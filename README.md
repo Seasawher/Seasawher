@@ -24,9 +24,9 @@ I recently started working on LeetCode.
 
 ### :key: Learn cyber security and cryptography
 
-I'm a player of HTB. But there is still a long way to go....
+I'm a player of TryHackMe. But there is still a long way to go....
 
-[![My HTB Profile](https://www.hackthebox.eu/badge/image/1249528)](https://app.hackthebox.com/profile/1249528)
+<img src="https://tryhackme-badges.s3.amazonaws.com/seasawher.png" alt="TryHackMe">
 
 ## :bar_chart: Stats and summary
 
