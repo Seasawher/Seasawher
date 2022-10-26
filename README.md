@@ -26,7 +26,7 @@ I recently started working on LeetCode.
 
 I'm a player of TryHackMe. But there is still a long way to go....
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/seasawher.png?4)](https://tryhackme.com/p/seasawher)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/seasawher.png?8)](https://tryhackme.com/p/seasawher)
 
 ## :bar_chart: Stats and summary
 
