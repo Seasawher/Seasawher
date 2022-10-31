@@ -16,15 +16,11 @@ I am taking Computer Science classes at edX. I am currently working on CS50 Web 
 
 ### :punch: LeetCode
 
-I recently started working on LeetCode.
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher?ext=activity&theme=nord)](https://leetcode.com/Seasawher/)
+I recently started working on [LeetCode](https://leetcode.com/Seasawher/).
 
 ### :key: Learn cyber security and cryptography
 
-I'm a player of TryHackMe. But there is still a long way to go....
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/seasawher.png?3)](https://tryhackme.com/p/seasawher)
+I'm a player of [TryHackMe](https://tryhackme.com/p/seasawher). But there is still a long way to go....
 
 ## :bar_chart: Stats and summary
 
