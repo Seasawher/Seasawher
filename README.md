@@ -34,7 +34,6 @@ I'm a player of TryHackMe. But there is still a long way to go....
 
 | when to use | skills                                                                                                       |
 | ----------- | ------------------------------------------------------------------------------------------------------------ |
-| front-end dev | [![My Skills on work](https://skillicons.dev/icons?i=html,css,js,)](https://skillicons.dev)      |
 | daily work  | [![My Skills on work](https://skillicons.dev/icons?i=php,jquery,laravel,mysql)](https://skillicons.dev)      |
 | LeetCode    | [![lang to work on LeetCode](https://skillicons.dev/icons?i=typescript,rust,,)](https://skillicons.dev)          |
 | edX         | [![My Skills on edX](https://skillicons.dev/icons?i=python,bootstrap,django,sqlite)](https://skillicons.dev) |
