@@ -14,7 +14,7 @@ I am interested in cyber security and cryptography and would like to learn more.
 
 I am taking Computer Science classes at edX. I am currently working on CS50 Web Programming (Python, Django and JavaScript).
 
-* [![My WakaTime Stats](./metrics.plugin.wakatime.svg)](https://github.com/lowlighter/metrics)
+[![My WakaTime Stats](./metrics.plugin.wakatime.svg)](https://github.com/lowlighter/metrics)
 
 ### :punch: LeetCode
 
