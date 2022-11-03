@@ -10,7 +10,7 @@ I am interested in cyber security and cryptography and would like to learn more.
 
 ## 🌱 I'm working on now
 
-### :school: edX
+### :school: Harvard Online Courses at edX
 
 I am taking Computer Science classes at edX. I am currently working on CS50 Web Programming (Python, Django and JavaScript).
 
