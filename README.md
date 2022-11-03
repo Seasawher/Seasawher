@@ -28,6 +28,10 @@ I'm a player of [TryHackMe](https://tryhackme.com/p/seasawher). But there is sti
 
 ![Try Hack Me Badge](https://assets.tryhackme.com/room-badges/5c4259aaea27334c67e356ca749282c0.png)
 
+### 📘 Exercism
+
+I decided to learn Rust at [Exercism](https://exercism.org/profiles/Seasawher).
+
 ## :bar_chart: Stats and summary
 
 ### Tech Stack
@@ -42,10 +46,6 @@ I'm a player of [TryHackMe](https://tryhackme.com/p/seasawher). But there is sti
 ### Languages
 
 [![profile summary card, most commit language](profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![profile summary card, repos per language](profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-## 📫 Links
-
-[![My StackOverflow profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/19453583?theme=monokai)](https://stackoverflow.com/users/19453583/kitamado?tab=profile)
 
 ## :bow: Acknowledgments
 
