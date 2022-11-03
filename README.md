@@ -26,6 +26,8 @@ I recently started working on LeetCode.
 
 I'm a player of [TryHackMe](https://tryhackme.com/p/seasawher). But there is still a long way to go....
 
+![Try Hack Me Badge](https://assets.tryhackme.com/room-badges/5c4259aaea27334c67e356ca749282c0.png)
+
 ## :bar_chart: Stats and summary
 
 ### Tech Stack
