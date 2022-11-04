@@ -28,13 +28,6 @@ I'm a player of [TryHackMe](https://tryhackme.com/p/seasawher). But there is sti
 
 ![Try Hack Me Badge](https://assets.tryhackme.com/room-badges/5c4259aaea27334c67e356ca749282c0.png)
 
-### 📘 Exercism
-
-I decided to learn Rust at [Exercism](https://exercism.org/profiles/Seasawher).
-
-<img width="455" alt="image" src="https://user-images.githubusercontent.com/47292598/199894906-875a8d41-71cb-4af5-b610-e3092b9533c0.png">
-
-
 ## :bar_chart: Stats and summary
 
 ### Tech Stack
