@@ -10,19 +10,17 @@ I am interested in cyber security and cryptography and would like to learn more.
 
 ## 🌱 I'm working on now
 
-### :school: HarvardX
+### :school: HarvardX - Computer Science
 
 I am taking Computer Science classes at edX. I am currently working on [CS50 Web Programming](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) (Python, Django and JavaScript).
 
-
-
-### :punch: LeetCode
+### :punch: LeetCode - Discrete Optimization
 
 I recently started working on LeetCode.
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher?ext=activity&theme=nord)](https://leetcode.com/Seasawher/)
 
-### :key: Learn cyber security and cryptography
+### :key: TryHackMe - Cyber Security
 
 I'm a player of [TryHackMe](https://tryhackme.com/p/seasawher). But there is still a long way to go....
 
