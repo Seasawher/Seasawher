@@ -37,10 +37,6 @@ I'm a player of [TryHackMe](https://tryhackme.com/p/seasawher). But there is sti
 | HarvardX   | [![My Skills on HarvardX](https://skillicons.dev/icons?i=python,react,django,sqlite)](https://skillicons.dev) |                                 
 | TryHackMe |  [![My Skills on THM](https://skillicons.dev/icons?i=bash,linux,,)](https://skillicons.dev)  |
 
-### Languages
-
-[![profile summary card, most commit language](profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![profile summary card, repos per language](profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 ## :bow: Acknowledgments
 
 * The image used as my github icon - みーなのキャラメーカー(β版) (This service no longer exists)
