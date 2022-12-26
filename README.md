@@ -33,7 +33,7 @@ I'm a player of [TryHackMe](https://tryhackme.com/p/seasawher). But there is sti
 | when to use | skills                                                                                                       |
 | ----------- | ------------------------------------------------------------------------------------------------------------ |
 | daily work  | [![My Skills on work](https://skillicons.dev/icons?i=php,jquery,laravel,mysql)](https://skillicons.dev)      |
-| LeetCode    | [![lang to work on LeetCode](https://skillicons.dev/icons?i=typescript,,,)](https://skillicons.dev)          |
+| LeetCode    | [![lang to work on LeetCode](https://skillicons.dev/icons?i=typescript,rust,,)](https://skillicons.dev)      |
 | HarvardX   | [![My Skills on HarvardX](https://skillicons.dev/icons?i=python,react,django,sqlite)](https://skillicons.dev) |                                 
 | TryHackMe |  [![My Skills on THM](https://skillicons.dev/icons?i=bash,linux,,)](https://skillicons.dev)  |
 
