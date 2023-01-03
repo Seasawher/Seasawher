@@ -16,6 +16,10 @@ I am interested in cyber security and cryptography and would like to learn more.
 
 I am taking Computer Science classes at edX. I am currently working on [CS50 Web Programming](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) (Python, Django and JavaScript).
 
+|Course | Status | Content |
+|---|---|---|
+| [CS50 Web](https://cs50.harvard.edu/web/2020/) | in Progress | [![cs50 web](https://skillicons.dev/icons?i=python,django,react)](https://skillicons.dev) |
+
 ### :punch: LeetCode - Discrete Optimization
 
 I recently started working on LeetCode.
