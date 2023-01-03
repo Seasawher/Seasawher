@@ -26,22 +26,11 @@ I'm a player of [Hack The Box](https://www.hackthebox.com/). But there is still 
 
 [![Seasawher](https://www.hackthebox.eu/badge/image/1249528)](https://app.hackthebox.com/profile/1249528)
 
-## :bar_chart: Stats and summary
-
-### Tech Stack
-
-| when to use | skills                                                                                                       |
-| ----------- | ------------------------------------------------------------------------------------------------------------ |
-| daily work  | [![My Skills on work](https://skillicons.dev/icons?i=php,jquery,laravel,mysql)](https://skillicons.dev)      |
-| LeetCode    | [![lang to work on LeetCode](https://skillicons.dev/icons?i=typescript,rust,,)](https://skillicons.dev)      |
-| HarvardX   | [![My Skills on HarvardX](https://skillicons.dev/icons?i=python,react,django,sqlite)](https://skillicons.dev) |                                 
-| TryHackMe |  [![My Skills on THM](https://skillicons.dev/icons?i=bash,linux,,)](https://skillicons.dev)  |
-
 ## :bow: Acknowledgments
 
 * The image used as my github icon - みーなのキャラメーカー(β版) (This service no longer exists)
 
-* Skill icons in my tool stack - [Skill Icons](https://skillicons.dev/)
+<!-- * Skill icons in my tool stack - [Skill Icons](https://skillicons.dev/) -->
 
 * Summary cards of my github profile - [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
