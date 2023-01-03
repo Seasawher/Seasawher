@@ -20,11 +20,11 @@ I recently started working on LeetCode.
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher?ext=activity&theme=nord)](https://leetcode.com/Seasawher/)
 
-### :key: TryHackMe - Cyber Security
+### :key: Hack The Box - Cyber Security
 
-I'm a player of [TryHackMe](https://tryhackme.com/p/seasawher). But there is still a long way to go....
+I'm a player of [Hack The Box](https://www.hackthebox.com/). But there is still a long way to go....
 
-![Try Hack Me Badge](https://assets.tryhackme.com/room-badges/5c4259aaea27334c67e356ca749282c0.png)
+[![Seasawher](https://www.hackthebox.eu/badge/image/1249528)](https://app.hackthebox.com/profile/1249528)
 
 ## :bar_chart: Stats and summary
 
