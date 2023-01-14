@@ -8,9 +8,15 @@ I'm working on web development (Laravel, MySQL) now.
 
 I am interested in cyber security and cryptography and would like to learn more.
 
-[![Seasawher's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=Seasawher&theme=nord)](https://github.com/DenverCoder1/github-readme-streak-stats)
+## 📊 My GitHub Stats
+
+[![Seasawher's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) 
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Seasawher&theme=nord)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Seasawher&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Seasawher&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🌱 I'm working on now
 
