@@ -14,7 +14,7 @@ I am interested in cyber security and cryptography and would like to learn more.
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Seasawher&theme=nord)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Seasawher&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Seasawher&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Seasawher&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
