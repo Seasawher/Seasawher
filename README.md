@@ -6,8 +6,6 @@ I'm Kitamado. I majored in mathematics (number theory and discrete optimization)
 
 I'm working on web development (Laravel, MySQL) now.
 
-I am interested in cyber security and cryptography and would like to learn more.
-
 ## 📊 My GitHub Stats
 
 [![Seasawher's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) [![trophy](https://github-profile-trophy.vercel.app/?username=Seasawher&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy)
