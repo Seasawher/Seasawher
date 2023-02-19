@@ -31,17 +31,11 @@ I am taking Computer Science classes at edX. I am currently working on [CS50 Web
 |                                                |             | [![cs50 web](https://skillicons.dev/icons?i=js,react,bootstrap)](https://skillicons.dev)   |
 |                                                |             | [![cs50 web](https://skillicons.dev/icons?i=docker,git)](https://skillicons.dev)           |
 
-### :punch: LeetCode - Discrete Optimization
+### :punch: LeetCode - Data Structures and Algorithms
 
 I recently started working on LeetCode.
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher?ext=activity&theme=nord)](https://leetcode.com/Seasawher/)
-
-### :key: Hack The Box - Cyber Security
-
-I'm a player of [Hack The Box](https://www.hackthebox.com/). But there is still a long way to go....
-
-[![Seasawher](https://www.hackthebox.eu/badge/image/1249528)](https://app.hackthebox.com/profile/1249528)
 
 ## :bow: Acknowledgments
 
