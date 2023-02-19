@@ -29,7 +29,7 @@ I am taking Computer Science classes at edX. I am currently working on [CS50 Web
 | ---------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------ |
 | [CS50 Web](https://cs50.harvard.edu/web/2020/) | in Progress | [![cs50 web](https://skillicons.dev/icons?i=python,django,sqlite)](https://skillicons.dev) |
 |                                                |             | [![cs50 web](https://skillicons.dev/icons?i=js,react,bootstrap)](https://skillicons.dev)   |
-|                                                |             | [![cs50 web](https://skillicons.dev/icons?i=docker,git)](https://skillicons.dev)           |
+|                                                |             | [![cs50 web](https://skillicons.dev/icons?i=docker,git,)](https://skillicons.dev)          |
 
 ### :punch: LeetCode - Data Structures and Algorithms
 
