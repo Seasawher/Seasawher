@@ -21,9 +21,9 @@ I'm working on web development (Laravel, MySQL) now.
 
 ## 🌱 I'm working on now
 
-### :school: HarvardX - Learn Computer Science
+### :school: HarvardX - Learn Computer Science and Engineering
 
-I am taking Computer Science classes at edX. I am currently working on [CS50 Web Programming](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) (Python, Django and JavaScript).
+I am taking Computer Science/Engineering classes at edX. I am currently working on [CS50 Web Programming](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) (Python, Django and JavaScript).
 
 | Course                                         | Status      | What I learn                                                                               |
 | ---------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------ |
