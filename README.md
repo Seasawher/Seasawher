@@ -35,7 +35,7 @@ I am taking Computer Science classes at edX. I am currently working on [CS50 Web
 
 I recently started working on LeetCode.
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher?ext=activity&theme=nord)](https://leetcode.com/Seasawher/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher?ext=contest&theme=nord)](https://leetcode.com/Seasawher/)
 
 ## :bow: Acknowledgments
 
