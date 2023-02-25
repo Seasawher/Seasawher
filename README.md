@@ -33,7 +33,7 @@ I am taking Computer Science/Engineering classes at edX. I am currently working 
 
 ### :punch: LeetCode - Data Structures and Algorithms
 
-I recently started working on LeetCode.
+I recently started working on LeetCode and [AtCoder](https://atcoder.jp/users/seasawher).
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher?ext=contest&theme=nord)](https://leetcode.com/Seasawher/)
 
