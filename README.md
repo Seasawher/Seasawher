@@ -31,9 +31,12 @@ I am taking Computer Science/Engineering classes at edX. I am currently working 
 |                                                |             | [![cs50 web](https://skillicons.dev/icons?i=js,react,bootstrap)](https://skillicons.dev)   |
 |                                                |             | [![cs50 web](https://skillicons.dev/icons?i=docker,git,)](https://skillicons.dev)          |
 
-### :punch: LeetCode - Data Structures and Algorithms
+### :punch: Competitive programming
 
-I recently started working on LeetCode and [AtCoder](https://atcoder.jp/users/seasawher).
+| Platform | Url |
+|----------|------------|
+| LeetCode | [my profile](https://leetcode.com/Seasawher/)  |
+| AtCoder | [my profile](https://atcoder.jp/users/seasawher) |
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher?ext=contest&theme=nord)](https://leetcode.com/Seasawher/)
 
