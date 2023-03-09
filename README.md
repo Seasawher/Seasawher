@@ -31,7 +31,7 @@ I am taking Computer Science/Engineering classes at edX. I am currently working 
 |                                                |             | [![cs50 web](https://skillicons.dev/icons?i=js,react,bootstrap)](https://skillicons.dev)   |
 |                                                |             | [![cs50 web](https://skillicons.dev/icons?i=docker,git,)](https://skillicons.dev)          |
 
-### :punch: Competitive programming
+### 🎮 Competitive programming
 
 | Platform | Url |
 |----------|------------|
