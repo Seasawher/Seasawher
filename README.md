@@ -40,6 +40,12 @@ I am taking Computer Science/Engineering classes at edX. I am currently working 
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher?ext=contest&theme=nord)](https://leetcode.com/Seasawher/)
 
+## 📫 Contact me
+
+* Please post an issue on GitHub. I will reply to you.
+
+* Please use Discord for private discussions. `Kitamado#9271` is me.
+
 ## :bow: Acknowledgments
 
 * The image used as my github icon - みーなのキャラメーカー(β版) (This service no longer exists)
