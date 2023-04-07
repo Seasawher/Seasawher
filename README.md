@@ -47,4 +47,4 @@ I am taking Computer Science/Engineering classes at edX. I am currently working 
 
 * The image used as my github icon - みーなのキャラメーカー(β版) (This service no longer exists)
 
-* My LeetCode stats embedded in github - [LeetCode Stats Card](https://github.com/JacobLinCool/LeetCode-Stats-Card)
+<!-- * My LeetCode stats embedded in github - [LeetCode Stats Card](https://github.com/JacobLinCool/LeetCode-Stats-Card) -->
