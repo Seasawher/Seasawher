@@ -18,7 +18,7 @@ My current job is as a web engineer, but recently my interest has shifted to mac
 
 ## 🌱 I'm working on now
 
-### :school: HarvardX - Learn Computer Science and Engineering
+### 🏫 HarvardX - Learn Computer Science and Engineering
 
 I am taking Computer Science/Engineering classes at edX. 
 
@@ -28,6 +28,12 @@ I am taking Computer Science/Engineering classes at edX.
 |                                                |             | [![cs50 web](https://skillicons.dev/icons?i=js,react,bootstrap)](https://skillicons.dev)   |
 |                                                |             | [![cs50 web](https://skillicons.dev/icons?i=docker,git,)](https://skillicons.dev)          |
 | [CS50 AI](https://cs50.harvard.edu/ai/2020/)   | in Progress | [![cs50 ai](https://skillicons.dev/icons?i=python,,)](https://skillicons.dev)              |
+
+### 📖 Microsoft Learn - Learn Machine Learning and Data Science
+
+| Learning Path                                  | Status      | What I learn                                                                               |
+| ---------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------ |
+| [Foundations Using Data Science](https://learn.microsoft.com/ja-jp/training/paths/machine-learning-foundations-using-data-science/) | in Progress | [![MS](https://skillicons.dev/icons?i=python,,)](https://skillicons.dev)             |
 
 ### 🎮 Competitive Programming - Data Structures and Algorithms
 
