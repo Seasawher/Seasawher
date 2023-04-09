@@ -27,6 +27,7 @@ I am taking Computer Science/Engineering classes at edX. I am currently working 
 | [CS50 Web](https://cs50.harvard.edu/web/2020/) | in Progress | [![cs50 web](https://skillicons.dev/icons?i=python,django,sqlite)](https://skillicons.dev) |
 |                                                |             | [![cs50 web](https://skillicons.dev/icons?i=js,react,bootstrap)](https://skillicons.dev)   |
 |                                                |             | [![cs50 web](https://skillicons.dev/icons?i=docker,git,)](https://skillicons.dev)          |
+| [CS50 AI](https://cs50.harvard.edu/ai/2020/)   | in Progress | [![cs50 ai](https://skillicons.dev/icons?i=python,,)](https://skillicons.dev)              |
 
 ### 🎮 Competitive programming
 
