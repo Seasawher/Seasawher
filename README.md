@@ -20,7 +20,7 @@ My current job is as a web engineer, but recently my interest has shifted to mac
 
 ### :school: HarvardX - Learn Computer Science and Engineering
 
-I am taking Computer Science/Engineering classes at edX. I am currently working on [CS50 Web Programming](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) (Python, Django and JavaScript).
+I am taking Computer Science/Engineering classes at edX. 
 
 | Course                                         | Status      | What I learn                                                                               |
 | ---------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------ |
@@ -29,7 +29,7 @@ I am taking Computer Science/Engineering classes at edX. I am currently working 
 |                                                |             | [![cs50 web](https://skillicons.dev/icons?i=docker,git,)](https://skillicons.dev)          |
 | [CS50 AI](https://cs50.harvard.edu/ai/2020/)   | in Progress | [![cs50 ai](https://skillicons.dev/icons?i=python,,)](https://skillicons.dev)              |
 
-### 🎮 Competitive programming
+### 🎮 Competitive Programming - Data Structures and Algorithms
 
 With LeetCode, I am trying to acquire practical knowledge of data structures and algorithms.
 
