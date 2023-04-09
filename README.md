@@ -2,9 +2,9 @@
 
 ## 👋 Hi there
 
-I'm Kitamado. I majored in mathematics (number theory and discrete optimization) at Kyoto university.
+I'm Kitamado. I majored in mathematics (number theory and discrete optimization).
 
-I'm working on web development (Laravel, MySQL) now.
+My current job is as a web engineer, but recently my interest has shifted to machine learning and data science.
 
 <!-- ## 📊 My GitHub Stats -->
 
