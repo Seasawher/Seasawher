@@ -55,4 +55,6 @@ With LeetCode, I am trying to acquire practical knowledge of data structures and
 
 * The image used as my github icon - みーなのキャラメーカー(β版) (This service no longer exists)
 
-<!-- * My LeetCode stats embedded in github - [LeetCode Stats Card](https://github.com/JacobLinCool/LeetCode-Stats-Card) -->
+* My LeetCode stats embedded in github - [LeetCode Stats Card](https://github.com/JacobLinCool/LeetCode-Stats-Card)
+
+* My Kaggle profile card - [Kaggle Profile Summary Card](https://github.com/chienhsiang-hung/kaggle-profile-summary-card)
