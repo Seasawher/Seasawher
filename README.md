@@ -29,11 +29,15 @@ I am taking Computer Science/Engineering classes at edX.
 |                                                |             | [![cs50 web](https://skillicons.dev/icons?i=docker,git,)](https://skillicons.dev)          |
 | [CS50 AI](https://cs50.harvard.edu/ai/2020/)   | in Progress | [![cs50 ai](https://skillicons.dev/icons?i=python,,)](https://skillicons.dev)              |
 
-### 📖 Microsoft Learn - Learn Machine Learning and Data Science
+### 📈 Kaggle - Data Science and Machine Learning
+
+![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?seasawher)
+
+<!-- ### 📖 Microsoft Learn - Learn Machine Learning and Data Science
 
 | Learning Path                                  | Status      | What I learn                                                                               |
 | ---------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------ |
-| [Foundations Using Data Science](https://learn.microsoft.com/ja-jp/training/paths/machine-learning-foundations-using-data-science/) | in Progress | [![MS](https://skillicons.dev/icons?i=python,,)](https://skillicons.dev)             |
+| [Foundations Using Data Science](https://learn.microsoft.com/ja-jp/training/paths/machine-learning-foundations-using-data-science/) | in Progress | [![MS](https://skillicons.dev/icons?i=python,,)](https://skillicons.dev)             | -->
 
 ### 🎮 Competitive Programming - Data Structures and Algorithms
 
