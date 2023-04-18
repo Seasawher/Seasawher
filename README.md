@@ -39,7 +39,7 @@ I am taking Computer Science/Engineering classes at edX.
 | ---------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------ |
 | [Foundations Using Data Science](https://learn.microsoft.com/ja-jp/training/paths/machine-learning-foundations-using-data-science/) | in Progress | [![MS](https://skillicons.dev/icons?i=python,,)](https://skillicons.dev)             | -->
 
-### 🎮 Competitive Programming - Data Structures and Algorithms
+### 🎮 LeetCode - Data Structures and Algorithms
 
 With LeetCode, I am trying to acquire practical knowledge of data structures and algorithms.
 
