@@ -6,11 +6,11 @@ I'm Kitamado. I majored in mathematics (number theory and discrete optimization)
 
 My current job is as a web engineer, but recently my interest has shifted to machine learning and data science.
 
-<!-- ## 📊 My GitHub Stats -->
+<!-- ## 📊 My Stats
 
-<!-- [![Seasawher's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) [![trophy](https://github-profile-trophy.vercel.app/?username=Seasawher&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy) -->
+[![Seasawher's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) [![trophy](https://github-profile-trophy.vercel.app/?username=Seasawher&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seasawher&layout=compact&theme=nord&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seasawher&layout=compact&theme=nord&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Seasawher&theme=nord)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 
@@ -44,6 +44,10 @@ I am taking Computer Science/Engineering classes at edX.
 With LeetCode, I am trying to acquire practical knowledge of data structures and algorithms.
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher?ext=contest&theme=nord)](https://leetcode.com/Seasawher/)
+
+## 📰 My Social Activity
+
+<a href="https://app.daily.dev/seasawher"><img src="https://api.daily.dev/devcards/b306ea39c23d460ebef98cbac3600b32.png?r=ch4" width="400" alt="Kitamado's Dev Card"/></a>
 
 ## 📫 Contact me
 
