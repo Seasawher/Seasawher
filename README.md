@@ -45,9 +45,6 @@ With LeetCode, I am trying to acquire practical knowledge of data structures and
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher?ext=contest&theme=nord)](https://leetcode.com/Seasawher/)
 
-## 📰 My Social Activity
-
-<a href="https://app.daily.dev/seasawher"><img src="https://api.daily.dev/devcards/b306ea39c23d460ebef98cbac3600b32.png?r=ch4" width="400" alt="Kitamado's Dev Card"/></a>
 
 ## 📫 Contact me
 
