@@ -31,6 +31,8 @@ I am taking Computer Science/Engineering classes at edX.
 
 ### 📈 Kaggle - Data Science and Machine Learning
 
+I'm still new to data science, but I'm determined to learn it!
+
 [![My Kaggle Profile](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?seasawher)](https://www.kaggle.com/seasawher)
 
 <!-- ### 📖 Microsoft Learn - Learn Machine Learning and Data Science
