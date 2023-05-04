@@ -47,6 +47,7 @@ With LeetCode, I am trying to acquire practical knowledge of data structures and
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Seasawher?ext=contest&theme=nord)](https://leetcode.com/Seasawher/)
 
+<!--
 ## 📰 Daily.dev - News for Developers
 
 Times change so rapidly that it is impossible to keep up with them. However, I would like to keep up with the latest developments in the world, even if only vaguely.
@@ -54,6 +55,7 @@ Times change so rapidly that it is impossible to keep up with them. However, I w
 <a href="https://app.daily.dev/seasawher">
   <img src="https://github.com/Seasawher/Seasawher/blob/main/devcard.svg" width="400" alt="My Dev Card"/>
 </a>
+-->
 
 ## 📫 Contact me
 
