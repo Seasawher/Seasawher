@@ -4,6 +4,8 @@
 
 I'm Kitamado. I majored in mathematics (number theory and discrete optimization).
 
+I got a bachelor of science at Kyoto University and master of mathematics at Research Institute for Mathematical Sciences, Kyoto University. 
+
 My current job is as a web engineer, but recently my interest has shifted to machine learning and data science.
 
 <!-- ## 📊 My Stats
