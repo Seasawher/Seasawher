@@ -40,7 +40,7 @@ I am taking Computer Science/Engineering classes at edX.
 
 ### 📈 Kaggle - Data Science
 
-I'm still new to data science, but I'm determined to learn it!
+I am new to data science and intend to find areas of interest as I study.
 
 [![My Kaggle Profile](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?seasawher)](https://www.kaggle.com/seasawher)
 
