@@ -31,7 +31,7 @@ I am taking Computer Science/Engineering classes at edX.
 |                                                |             | [![cs50 web](https://skillicons.dev/icons?i=docker,git,)](https://skillicons.dev)          |
 | [CS50 AI](https://cs50.harvard.edu/ai/2020/)   | in Progress | [![cs50 ai](https://skillicons.dev/icons?i=python,,)](https://skillicons.dev)              |
 
-### 📈 Kaggle - Data Science and Machine Learning
+### 📈 Kaggle - Data Science
 
 I'm still new to data science, but I'm determined to learn it!
 
