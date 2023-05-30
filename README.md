@@ -31,7 +31,7 @@ My current job is as a web engineer, but recently my interest has shifted to mac
 
 I am taking Computer Science/Engineering classes at edX. 
 
-| Course                                         | Status      | What I learn                                                                               |
+| Course                                         | Status      | Lang, Framework, Library                                                                   |
 | ---------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------ |
 | [CS50 Web](https://cs50.harvard.edu/web/2020/) | done        | [![cs50 web](https://skillicons.dev/icons?i=python,django,sqlite)](https://skillicons.dev) |
 |                                                |             | [![cs50 web](https://skillicons.dev/icons?i=js,react,bootstrap)](https://skillicons.dev)   |
