@@ -31,12 +31,12 @@ My current job is as a web engineer, but recently my interest has shifted to mac
 
 I am taking Computer Science/Engineering classes at edX. 
 
-| Course                                         | Status      | Lang, Framework, Library                                                                   |
+| Course                                         | Status      | What I Learn                                                                               |
 | ---------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------ |
 | [CS50 Web](https://cs50.harvard.edu/web/2020/) | done        | [![cs50 web](https://skillicons.dev/icons?i=python,django,sqlite)](https://skillicons.dev) |
 |                                                |             | [![cs50 web](https://skillicons.dev/icons?i=js,react,bootstrap)](https://skillicons.dev)   |
 |                                                |             | [![cs50 web](https://skillicons.dev/icons?i=docker,git,)](https://skillicons.dev)          |
-| [CS50 AI](https://cs50.harvard.edu/ai/2020/)   | in Progress | [![cs50 ai](https://skillicons.dev/icons?i=python,,)](https://skillicons.dev)              |
+| [CS50 AI](https://cs50.harvard.edu/ai/2020/)   | in Progress | `python` `scikit-learn` `TensorFlow` `nltk`                                                |
 
 ### 📈 Kaggle - Data Science
 
