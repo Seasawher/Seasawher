@@ -6,8 +6,6 @@ I'm Kitamado. I majored in mathematics (number theory and discrete optimization)
 
 I got a bachelor of science at Kyoto University and master of mathematics at Research Institute for Mathematical Sciences, Kyoto University. 
 
-My current job is as a web engineer, but recently my interest has shifted to machine learning and data science.
-
 <!-- ## 📊 My Stats
 
 [![Seasawher's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) [![trophy](https://github-profile-trophy.vercel.app/?username=Seasawher&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy)
