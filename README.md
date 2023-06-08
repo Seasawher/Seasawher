@@ -34,7 +34,8 @@ I am taking Computer Science/Engineering classes at edX.
 | [CS50 Web](https://cs50.harvard.edu/web/2020/) | done        | [![cs50 web](https://skillicons.dev/icons?i=python,django,sqlite)](https://skillicons.dev) |
 |                                                |             | [![cs50 web](https://skillicons.dev/icons?i=js,react,bootstrap)](https://skillicons.dev)   |
 |                                                |             | [![cs50 web](https://skillicons.dev/icons?i=docker,git,)](https://skillicons.dev)          |
-| [CS50 AI](https://cs50.harvard.edu/ai/2020/)   | in Progress | [![cs50 web](https://skillicons.dev/icons?i=python,tensorflow,)](https://skillicons.dev)   |
+| [CS50 AI](https://cs50.harvard.edu/ai/2020/)   | in Progress | [![cs50 ai](https://skillicons.dev/icons?i=python,tensorflow,)](https://skillicons.dev)    |
+| [CS50 Game](https://cs50.harvard.edu/games/2020/)| in Progress | [![cs50 games](https://skillicons.dev/icons?i=lua,unity,)](https://skillicons.dev) |
 
 ### 📈 Kaggle - Data Science
 
