@@ -23,3 +23,13 @@ I am taking Computer Science/Engineering classes at edX.
 |                                                |             | [![cs50 web](https://skillicons.dev/icons?i=docker,git,)](https://skillicons.dev)          |
 | [CS50 AI](https://cs50.harvard.edu/ai/2020/)   | in Progress | [![cs50 ai](https://skillicons.dev/icons?i=python,tensorflow,)](https://skillicons.dev)    |
 | [CS50 Game](https://cs50.harvard.edu/games/2020/)| in Progress | [![cs50 games](https://skillicons.dev/icons?i=lua,unity,)](https://skillicons.dev) |
+
+## 📊 My Stats
+
+[![Seasawher's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) [![trophy](https://github-profile-trophy.vercel.app/?username=Seasawher&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seasawher&layout=compact&theme=nord&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Seasawher&theme=nord)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Seasawher&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
