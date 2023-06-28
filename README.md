@@ -8,8 +8,10 @@
 [![CS50w Capstone](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=cs50web-capstone&show_owner=True)](https://github.com/Seasawher/cs50web-capstone)
 
 
-[![Matsumura](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=matsumura&show_owner=True)](https://github.com/Seasawher/matsumura)
+[![exam](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=graduate_exam&show_owner=True)](https://github.com/Seasawher/graduate_exam)
 
+
+[![Matsumura](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=matsumura&show_owner=True)](https://github.com/Seasawher/matsumura)
 
 
 [![hartshorne](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=hartshorne&show_owner=True)](https://github.com/Seasawher/hartshorne)
