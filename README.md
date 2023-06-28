@@ -8,6 +8,12 @@
 [![CS50w Capstone](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=cs50web-capstone&show_owner=True)](https://github.com/Seasawher/cs50web-capstone)
 
 
+[![Matsumura](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=matsumura&show_owner=True)](https://github.com/Seasawher/matsumura)
+
+
+
+[![hartshorne](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=hartshorne&show_owner=True)](https://github.com/Seasawher/hartshorne)
+
 <!-- ## 📊 My Stats -->
 
 <!-- [![Seasawher's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) [![trophy](https://github-profile-trophy.vercel.app/?username=Seasawher&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy) -->
