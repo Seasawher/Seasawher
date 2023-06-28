@@ -1,12 +1,11 @@
 # HELLO WORLD
 
-## :fire: My Projects
+## :fire: My Past Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=docker-lean4&show_owner=True)](https://github.com/Seasawher/docker-lean4)
+[![Too Many Lists](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=too-many-lists-ja&show_owner=True)](https://github.com/Seasawher/too-many-lists-ja)
 
 
 [![CS50w Capstone](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=cs50web-capstone&show_owner=True)](https://github.com/Seasawher/cs50web-capstone)
-
 
 
 <!-- ## 📊 My Stats -->
