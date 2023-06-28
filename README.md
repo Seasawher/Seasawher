@@ -85,7 +85,7 @@ Times change so rapidly that it is impossible to keep up with them. However, I w
 
 * Please post an issue on GitHub. I will reply to you.
 
-* Please use Discord for private discussions. `Kitamado#9271` is me.
+* Please use Discord for private discussions. `seasawher` is me.
 
 ## :bow: Acknowledgments
 
