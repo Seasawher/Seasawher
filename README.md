@@ -1,16 +1,19 @@
 # HELLO WORLD
 
-## 👋 Hi there
+## :fire: My Projects
 
-I'm Kitamado. I majored in mathematics (number theory and discrete optimization).
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=docker-lean4&show_owner=True)](https://github.com/Seasawher/docker-lean4)
 
-I got a bachelor of science at Kyoto University and master of mathematics at Research Institute for Mathematical Sciences, Kyoto University. 
 
-<!-- ## 📊 My Stats
+[![CS50w Capstone](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=cs50web-capstone&show_owner=True)](https://github.com/Seasawher/cs50web-capstone)
 
-[![Seasawher's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) [![trophy](https://github-profile-trophy.vercel.app/?username=Seasawher&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seasawher&layout=compact&theme=nord&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- ## 📊 My Stats -->
+
+<!-- [![Seasawher's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&count_private=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) [![trophy](https://github-profile-trophy.vercel.app/?username=Seasawher&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seasawher&layout=compact&theme=nord&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Seasawher&theme=nord)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 
