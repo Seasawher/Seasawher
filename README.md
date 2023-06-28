@@ -1,6 +1,6 @@
 # HELLO WORLD
 
-## :fire: My Past Projects
+## 🔥 My Past Projects
 
 ### Machine Learning, Data Science
 
@@ -16,7 +16,7 @@
 
 ### PDFs on Math
 
-[![exam](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=graduate_exam&show_owner=True)](https://github.com/Seasawher/graduate_exam)
+[![exam](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=graduate_exam&show_owner=True)](https://github.com/Seasawher/graduate_exam) [![exam](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=system_exam&show_owner=True)](https://github.com/Seasawher/system_exam)
 
 [![Matsumura](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=matsumura&show_owner=True)](https://github.com/Seasawher/matsumura) [![hartshorne](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=hartshorne&show_owner=True)](https://github.com/Seasawher/hartshorne)
 
