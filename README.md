@@ -1,6 +1,6 @@
 # HELLO WORLD
 
-## 🔥 My Past Projects
+## 📦 My Past Projects
 
 ### Machine Learning, Data Science
 
@@ -27,6 +27,14 @@
 * I have a [mastodon acount](https://mastodon.social/@seasawher). Feel free to talk to me!
 
 * Please use Discord for private discussions. `seasawher` is me.
+
+## 🔗 Links
+
+* [LeetCode](https://leetcode.com/Seasawher/)
+
+* [Kaggle](https://www.kaggle.com/seasawher)
+
+* [Stack Exchange](https://stackexchange.com/users/13256393/kitamado)
 
 ## 🙇 Acknowledgments
 
