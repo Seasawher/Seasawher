@@ -28,6 +28,6 @@
 
 * Please use Discord for private discussions. `seasawher` is me.
 
-## :bow: Acknowledgments
+## 🙇 Acknowledgments
 
 * The image used as my github icon - みーなのキャラメーカー(β版) (This service no longer exists)
