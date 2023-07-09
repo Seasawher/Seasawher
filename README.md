@@ -36,6 +36,8 @@
 
 * [Stack Exchange](https://stackexchange.com/users/13256393/kitamado)
 
+* [CryptoHack](https://cryptohack.org/user/seasawher/)
+
 ## 🙇 Acknowledgments
 
 * The image used as my github icon - みーなのキャラメーカー(β版) (This service no longer exists)
