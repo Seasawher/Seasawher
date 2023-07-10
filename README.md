@@ -24,7 +24,9 @@
 
 * Please post an issue on GitHub. I will reply to you.
 
-* I have a [mastodon acount](https://mastodon.social/@seasawher). Feel free to talk to me!
+* I have a [mastodon acount](https://mastodon.social/@seasawher).
+
+* [Misskey account](https://misskey.io/@seasawher) is here.
 
 * Please use Discord for private discussions. `seasawher` is me.
 
