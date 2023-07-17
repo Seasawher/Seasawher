@@ -4,7 +4,7 @@
 
 ### Machine Learning, Data Science
 
-[![chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=chatbot-tutorial&show_owner=True)](https://github.com/Seasawher/chatbot-tutorial) [![microprojects](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=microprojects&show_owner=True)](https://github.com/Seasawher/microprojects)
+[![microprojects](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=microprojects&show_owner=True)](https://github.com/Seasawher/microprojects)
 
 ### Rust
 
