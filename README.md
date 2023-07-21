@@ -4,7 +4,7 @@
 
 ### Machine Learning, Data Science
 
-[![microprojects](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=microprojects&show_owner=True)](https://github.com/Seasawher/microprojects)
+[![microprojects](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=microprojects&show_owner=True)](https://github.com/Seasawher/microprojects) [![alt](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=spaceship-titanic&show_owner=True)](https://github.com/Seasawher/spaceship-titanic)
 
 ### Rust
 
@@ -16,7 +16,7 @@
 
 ### Browser Extension
 
-[![CS50w Capstone](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=hello-misskey&show_owner=True)](https://github.com/Seasawher/hello-misskey)
+[![alt](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=hello-misskey&show_owner=True)](https://github.com/Seasawher/hello-misskey)
 
 ### PDFs on Mathematics
 
