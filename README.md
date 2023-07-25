@@ -6,23 +6,13 @@
 
 [![microprojects](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=microprojects&show_owner=True)](https://github.com/Seasawher/microprojects) [![alt](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=spaceship-titanic&show_owner=True)](https://github.com/Seasawher/spaceship-titanic)
 
-### Rust
-
-[![Too Many Lists](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=too-many-lists-ja&show_owner=True)](https://github.com/Seasawher/too-many-lists-ja)
-
 ### CS50
 
 [![CS50w Capstone](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=cs50web-capstone&show_owner=True)](https://github.com/Seasawher/cs50web-capstone)
 
-### Browser Extension
-
-[![alt](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=hello-misskey&show_owner=True)](https://github.com/Seasawher/hello-misskey)
-
 ### PDFs on Mathematics
 
 [![exam](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=graduate_exam&show_owner=True)](https://github.com/Seasawher/graduate_exam) [![exam](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=system_exam&show_owner=True)](https://github.com/Seasawher/system_exam)
-
-[![Matsumura](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=matsumura&show_owner=True)](https://github.com/Seasawher/matsumura) [![hartshorne](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=hartshorne&show_owner=True)](https://github.com/Seasawher/hartshorne)
 
 ## 📫 Contact me
 
