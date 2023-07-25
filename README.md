@@ -2,7 +2,7 @@
 
 ## 📦 My Past Projects
 
-### CS50
+### CS50 Web
 
 [![CS50w Capstone](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=cs50web-capstone&show_owner=True)](https://github.com/Seasawher/cs50web-capstone)
 
