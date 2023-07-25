@@ -2,10 +2,6 @@
 
 ## 📦 My Past Projects
 
-### Machine Learning, Data Science
-
-[![microprojects](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=microprojects&show_owner=True)](https://github.com/Seasawher/microprojects) [![alt](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=spaceship-titanic&show_owner=True)](https://github.com/Seasawher/spaceship-titanic)
-
 ### CS50
 
 [![CS50w Capstone](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=cs50web-capstone&show_owner=True)](https://github.com/Seasawher/cs50web-capstone)
