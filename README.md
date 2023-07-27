@@ -2,7 +2,11 @@
 
 ## 📦 My Past Projects
 
-### CS50 Web
+### Free Code Camp
+
+[![FCC](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=book-recommendation&show_owner=True)](https://github.com/Seasawher/book-recommendation)
+
+### CS50
 
 [![CS50w Capstone](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=cs50web-capstone&show_owner=True)](https://github.com/Seasawher/cs50web-capstone)
 
