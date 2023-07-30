@@ -4,7 +4,7 @@
 
 ### Free Code Camp
 
-[![FCC](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=book-recommendation&show_owner=True)](https://github.com/Seasawher/book-recommendation)
+[![FCC](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=book-recommendation&show_owner=True)](https://github.com/Seasawher/book-recommendation) [![FCC](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=linear-regression&show_owner=True)](https://github.com/Seasawher/linear-regression)
 
 ### CS50
 
