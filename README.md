@@ -18,7 +18,7 @@
 
 ## 📫 Contact me
 
-* Feel free to visit and post a [discussion](https://github.com/Seasawher/Seasawher/discussions) on GitHub. I will reply to you.
+* Feel free to visit and post a [discussion](https://github.com/Seasawher/Seasawher/discussions) on GitHub. (posting an issue is also welcome) I will reply to you. 
 
 * [Misskey account](https://misskey.io/@seasawher) is here.
 
