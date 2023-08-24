@@ -34,6 +34,8 @@
 
 * [CryptoHack](https://cryptohack.org/user/seasawher/)
 
+* [Codewars](https://www.codewars.com/users/Seasawher)
+
 * [Gist](https://gist.github.com/Seasawher)
 
 ## 🙇 Acknowledgments
