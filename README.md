@@ -12,12 +12,6 @@
 
 * [Kaggle](https://www.kaggle.com/seasawher)
 
-* [Stack Exchange](https://stackexchange.com/users/13256393/kitamado)
-
-* [CryptoHack](https://cryptohack.org/user/seasawher/)
-
-* [Codewars](https://www.codewars.com/users/Seasawher)
-
 * [Gist](https://gist.github.com/Seasawher)
 
 ## 🙇 Acknowledgments
