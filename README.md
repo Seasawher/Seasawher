@@ -13,7 +13,3 @@
 * [Kaggle](https://www.kaggle.com/seasawher)
 
 * [Gist](https://gist.github.com/Seasawher)
-
-## 🙇 Acknowledgments
-
-* The image used as my github icon - みーなのキャラメーカー(β版) (This service no longer exists)
