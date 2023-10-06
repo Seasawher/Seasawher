@@ -13,8 +13,4 @@
 
 ## 🔗 Links
 
-* [LeetCode](https://leetcode.com/Seasawher/)
-
-* [Kaggle](https://www.kaggle.com/seasawher)
-
 * [Gist](https://gist.github.com/Seasawher)
