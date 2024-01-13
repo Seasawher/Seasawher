@@ -1,9 +1,8 @@
 # HELLO WORLD
 
-## 📊 Stats
+I studied mathematics at Kyoto University and later learned software development through work. I am currently learning about Lean prover and would like more people to know about Lean prover.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seasawher&layout=compact&theme=transparent)
-](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&show_icons=true&theme=transparent)
+Lean prover is a great language. I believe the world of mathematics will be better if Lean is popularised.
 
 ## 📫 Contact me
 
