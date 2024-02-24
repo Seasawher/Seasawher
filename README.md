@@ -6,7 +6,8 @@ Lean prover is a great language. I believe the world of mathematics will be bett
 
 ## 🖐️ My Past Contributions
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuma-mizuno&repo=lean-math-workshop&show_owner=true)](https://github.com/yuma-mizuno/lean-math-workshop) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leanprover-community&repo=lean4-metaprogramming-book&show_owner=true)]([https://github.com/yuma-mizuno/lean-math-workshop](https://github.com/leanprover-community/lean4-metaprogramming-book))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuma-mizuno&repo=lean-math-workshop&show_owner=true)](https://github.com/yuma-mizuno/lean-math-workshop) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leanprover-community&repo=lean4-metaprogramming-book&show_owner=true)](https://github.com/leanprover-community/lean4-metaprogramming-book)
 
 ## 📫 Contact me
 
