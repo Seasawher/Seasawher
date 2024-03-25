@@ -12,6 +12,7 @@ My ambition is to make Lean, after TeX, the programming language known to all ma
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=mdgen&show_owner=true)](https://github.com/Seasawher/mdgen)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=lean-book&show_owner=true)](https://github.com/Seasawher/lean-book)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=mk-exercise&show_owner=true)](https://github.com/Seasawher/mk-exercise)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=import-all&show_owner=true)](https://github.com/Seasawher/import-all)
 
 ## 📫 Contact me
 
