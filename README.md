@@ -4,6 +4,10 @@ I studied mathematics at Kyoto University and earned my Master's degree on Mathe
 
 I am currently learning about Lean prover and would like more people to know about it. My ambition is to make Lean, after TeX, the programming language known to all mathematics graduates.
 
+## 📊 Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&show_icons=true&theme=transparent)
+
 ## 🖐️ My Past Contributions
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuma-mizuno&repo=lean-math-workshop&show_owner=true)](https://github.com/yuma-mizuno/lean-math-workshop) 
