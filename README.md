@@ -15,6 +15,7 @@ I am currently learning about [Lean language](https://lean-lang.org/) and would 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=graduate_exam&show_owner=true)](https://github.com/Seasawher/graduate_exam)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=mdgen&show_owner=true)](https://github.com/Seasawher/mdgen)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=lean-book&show_owner=true)](https://github.com/Seasawher/lean-book)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=mathlib4-tactics&show_owner=true)](https://github.com/Seasawher/mathlib4-tactics)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=mk-exercise&show_owner=true)](https://github.com/Seasawher/mk-exercise)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=import-all&show_owner=true)](https://github.com/Seasawher/import-all)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lean-ja&repo=zenn.dev&show_owner=true)](https://github.com/lean-ja/zenn.dev)
