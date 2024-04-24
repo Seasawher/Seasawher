@@ -29,3 +29,6 @@ I am currently learning about [Lean language](https://lean-lang.org/) and would 
 ## 🔗 Links
 
 * [Gist](https://gist.github.com/Seasawher)
+
+## Acknowledgment 🙇
+* [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
