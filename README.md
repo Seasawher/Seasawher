@@ -2,7 +2,7 @@
 
 I studied mathematics at Kyoto University and earned my Master's degree on Mathematics at RIMS (Research Institute for Mathematical Sciences Kyoto University). 
 
-I am currently learning about [Lean language](https://lean-lang.org/) and would like more people to know about Lean. The Lean language would bridge pure mathematics and computer science, creating a new mathematical community. My ambition is to make Lean, after TeX, the programming language known to all mathematics graduates.
+I am currently learning about [Lean language](https://lean-lang.org/). The Lean language would bridge pure mathematics and computer science, creating a new mathematical community. My ambition is to make Lean, after TeX, the programming language known to all mathematics graduates.
 
 ## 📊 Stats
 
