@@ -20,6 +20,7 @@ I am currently learning about [Lean language](https://lean-lang.org/). The Lean 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=import-all&show_owner=true)](https://github.com/Seasawher/import-all)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lean-ja&repo=zenn.dev&show_owner=true)](https://github.com/lean-ja/zenn.dev)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lean-ja&repo=math-in-type-theory-ja&show_owner=true)](https://github.com/lean-ja/math-in-type-theory-ja)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=SelectionSort.lean&show_owner=true)](https://github.com/Seasawher/SelectionSort.lean)
 
 ## 📫 Contact me
 
