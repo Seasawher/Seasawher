@@ -17,6 +17,7 @@ I am currently learning about [Lean language](https://lean-lang.org/). The Lean 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lean-ja&repo=math-in-type-theory-ja&show_owner=true)](https://github.com/lean-ja/math-in-type-theory-ja)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=mathlib4-tactics&show_owner=true)](https://github.com/Seasawher/mathlib4-tactics)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lean-ja&repo=zenn.dev&show_owner=true)](https://github.com/lean-ja/zenn.dev)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lean-ja&repo=lean-by-example-legacy&show_owner=true)](https://github.com/lean-ja/lean-by-example-legacy)
 
 ### Lean Library
 
