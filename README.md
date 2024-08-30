@@ -31,6 +31,11 @@ To this goal I was involved in setting up a community called lean-ja. My main in
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=SelectionSort.lean&show_owner=true)](https://github.com/Seasawher/SelectionSort.lean)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oliver-butterley&repo=lean-update&show_owner=true)](https://github.com/oliver-butterley/lean-update)
 
+### Translation of Lean documents
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lean-ja&repo=fp-lean-ja&show_owner=true)](https://github.com/lean-ja/fp-lean-ja)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lean-ja&repo=mathematics_in_lean_source&show_owner=true)](https://github.com/lean-ja/mathematics_in_lean_source)
+
 ### Others
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=graduate_exam&show_owner=true)](https://github.com/Seasawher/graduate_exam)
