@@ -17,7 +17,7 @@ To this goal I was involved in setting up a community called [lean-ja](https://l
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuma-mizuno&repo=lean-math-workshop&show_owner=true)](https://github.com/yuma-mizuno/lean-math-workshop) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leanprover-community&repo=lean4-metaprogramming-book&show_owner=true)](https://github.com/leanprover-community/lean4-metaprogramming-book)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lean-ja&repo=math-in-type-theory-ja&show_owner=true)](https://github.com/lean-ja/math-in-type-theory-ja)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=mathlib4-tactics&show_owner=true)](https://github.com/Seasawher/mathlib4-tactics)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=mathlib4-help&show_owner=true)](https://github.com/Seasawher/mathlib4-help)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lean-ja&repo=zenn.dev&show_owner=true)](https://github.com/lean-ja/zenn.dev)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lean-ja&repo=lean-by-example-legacy&show_owner=true)](https://github.com/lean-ja/lean-by-example-legacy)
 
