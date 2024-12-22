@@ -6,6 +6,8 @@ I am currently learning about [Lean language](https://lean-lang.org/). The Lean 
 
 To this goal I was involved in setting up a community called [lean-ja](https://lean-ja.github.io/). My main interest at present is to enrich Lean's Japanese documentation.
 
+I am looking for people and companies to sponsor my OSS!
+
 ## 📊 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&show_icons=true&theme=transparent)
