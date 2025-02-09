@@ -44,8 +44,6 @@ I am looking for people and companies to sponsor my OSS!
 
 ## 📫 Contact me
 
-* Feel free to visit and post a [discussion](https://github.com/Seasawher/Seasawher/discussions) on GitHub. (posting an issue is also welcome) I will reply to you.
-
 * Please use Discord for private discussions. `seasawher` is me.
 
 ## 🔗 Links
