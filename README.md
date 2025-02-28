@@ -4,7 +4,7 @@ I studied mathematics at Kyoto University and earned my Master's degree on Mathe
 
 I am currently learning about [Lean language](https://lean-lang.org/). The Lean language would bridge pure mathematics and computer science, creating a new mathematical community. My ambition is to make Lean, after TeX, the programming language known to all mathematics graduates. 
 
-To this goal I was involved in setting up a community called [lean-ja](https://discord.gg/7yjGF8d2NS). My main interest at present is to enrich Lean's Japanese documentation.
+To this goal I was involved in setting up a community called [lean-ja](https://discord.gg/qR5hqRGj3N). My main interest at present is to enrich Lean's Japanese documentation.
 
 I am looking for people and companies to sponsor my OSS!
 
