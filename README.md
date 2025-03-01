@@ -41,16 +41,16 @@ I am looking for people and companies to sponsor my OSS!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=lean-book&show_owner=true)](https://github.com/Seasawher/lean-book)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=mk-exercise&show_owner=true)](https://github.com/Seasawher/mk-exercise)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=import-all&show_owner=true)](https://github.com/Seasawher/import-all)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=SelectionSort.lean&show_owner=true)](https://github.com/Seasawher/SelectionSort.lean)
 
 ### Translation of Lean documents, Articles
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lean-ja&repo=math-in-type-theory-ja&show_owner=true)](https://github.com/lean-ja/math-in-type-theory-ja)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lean-ja&repo=fp-lean-ja&show_owner=true)](https://github.com/lean-ja/fp-lean-ja)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lean-ja&repo=mathematics_in_lean_source&show_owner=true)](https://github.com/lean-ja/mathematics_in_lean_source)
 
 ### Lean Math Library
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lean-ja&repo=mathematics_in_lean_source&show_owner=true)](https://github.com/lean-ja/mathematics_in_lean_source)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=SelectionSort.lean&show_owner=true)](https://github.com/Seasawher/SelectionSort.lean)
 
 ### Traditional Math
 
