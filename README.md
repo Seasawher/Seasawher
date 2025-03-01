@@ -2,7 +2,7 @@
 
 ## 🌱 About me
 
-Hello! I'm Asei Inoue (Kitamado is my handle name).
+Hello! I'm Asei Inoue (井上亜星 in Japanese).
 
 I studied mathematics at Kyoto University and earned my Master's degree on Mathematics at RIMS (Research Institute for Mathematical Sciences Kyoto University).
 
