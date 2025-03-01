@@ -60,9 +60,7 @@ I am looking for people and companies to sponsor my OSS!
 
 * Please use Discord for private discussions. `seasawher` is me.
 
-## 🔗 Links
 
-* [Gist](https://gist.github.com/Seasawher)
 
 ## Acknowledgment 🙇
 * [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
