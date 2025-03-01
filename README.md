@@ -25,7 +25,7 @@ I am looking for people and companies to sponsor my OSS!
 
 ## 📚 Publications
 
-* nothing yet
+* [An Additive Approximation Scheme for the Nash Social Welfare Maximization with Identical Additive Valuations](https://arxiv.org/abs/2201.01419) (2022.01)
 
 ## 📊 Stats
 
