@@ -14,7 +14,7 @@ I am looking for people and companies to sponsor my OSS!
 
 ## 🤵‍♂️ Talks
 
-* 「Lean でのドキュメント・教科書作成ツール」/[第27回プログラミングおよびプログラミング言語ワークショップ（PPL 2025）のポスターセッション](https://jssst-ppl.org/workshop/2025/program.html#pgroup-A) において発表。
+* 「Lean でのドキュメント・教科書作成ツール」/[第27回プログラミングおよびプログラミング言語ワークショップ（PPL 2025）のポスターセッション](https://jssst-ppl.org/workshop/2025/program.html#pgroup-A)
 
 ## 📚 Publications
 
