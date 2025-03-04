@@ -26,6 +26,7 @@ I am looking for people and companies to sponsor my OSS!
 ## 📚 Publications
 
 * [An Additive Approximation Scheme for the Nash Social Welfare Maximization with Identical Additive Valuations](https://arxiv.org/abs/2201.01419) (2022.01)
+* [n月刊ラムダノート Vol.5, No.1(2025)/自然数を作って学ぶLean言語](https://www.lambdanote.com/products/n-vol-5-no-1)
 
 ## 📊 Stats
 
