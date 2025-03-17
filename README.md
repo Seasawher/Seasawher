@@ -75,7 +75,7 @@ I am looking for people and companies to sponsor my OSS!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=SelectionSort.lean&show_owner=true)](https://github.com/Seasawher/SelectionSort.lean)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dwrensha&repo=compfiles&show_owner=true)](https://github.com/dwrensha/compfiles)
 
-### Traditional Math
+### Informal Math
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=graduate_exam&show_owner=true)](https://github.com/Seasawher/graduate_exam)
 
