@@ -39,7 +39,7 @@ I am looking for people and companies to sponsor my OSS!
 ### GitHub Action for Lean
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oliver-butterley&repo=lean-update&show_owner=true)](https://github.com/oliver-butterley/lean-update)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=lean-update&show_owner=true)](https://github.com/Seasawher/lean-update)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leanprover-community&repo=lean-update&show_owner=true)](https://github.com/leanprover-community/lean-update)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leanprover&repo=lean-action&show_owner=true)](https://github.com/leanprover/lean-action)
 
 ### Lean Textbook, Tutorial
