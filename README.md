@@ -17,8 +17,8 @@ I am looking for people and companies to sponsor my OSS!
 * 1997.09: be born into this world
 * 2016.04-2020.03: Kyoto University, Bachelor of Science
 * 2020.04-2022.03: Kyoto University, Master of Science (Mathematics)
-* 2022.04-2024.01: Web engineer.
-* 2024.02-now: a job in [Proxima Technology](https://proxima-ai-tech.com/)
+* 2022.04-2024.01: web engineer at [codesolution](https://www.codesol.jp/)
+* 2024.02-now: softwear engineer at [Proxima Technology](https://proxima-ai-tech.com/)
 
 ## 🤵‍♂️ Talks
 
