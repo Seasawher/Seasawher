@@ -10,8 +10,6 @@ I am currently learning about [Lean language](https://lean-lang.org/). The Lean 
 
 To this goal I was involved in setting up a community called [lean-ja](https://discord.gg/qR5hqRGj3N). My main interest at present is to enrich Lean's Japanese documentation.
 
-I am looking for people and companies to sponsor my OSS!
-
 ## 🌵 My Histroy
 
 * 1997.09: be born into this world
