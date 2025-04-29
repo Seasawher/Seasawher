@@ -15,7 +15,7 @@ To this goal I was involved in setting up a community called [lean-ja](https://d
 * 1997.09: be born into this world
 * 2016.04-2020.03: Kyoto University, Bachelor of Science
 * 2020.04-2022.03: Kyoto University, Master of Science (Mathematics)
-* 2022.04-2024.01: web engineer at first company.
+* 2022.04-2024.01: web engineer.
 * 2024.02-now: softwear engineer at [Proxima Technology](https://proxima-ai-tech.com/)
 
 ## 🤵‍♂️ Talks
