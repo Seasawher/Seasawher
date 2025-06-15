@@ -21,6 +21,7 @@ To this goal I was involved in setting up a community called [lean-ja](https://d
 ## 🤵‍♂️ Talks
 
 * [「Lean でのドキュメント・教科書作成ツール」](./assets/PPL2025.pdf) / [第27回プログラミングおよびプログラミング言語ワークショップ（PPL 2025）](https://jssst-ppl.org/workshop/2025/program.html#pgroup-A)
+* [Lean言語は新世代の純粋関数型言語になれるか？](./assets/fp_matsuri_2025.pdf) / [関数型まつり2025](https://fortee.jp/2025fp-matsuri)
 
 ## 📚 Publications
 
