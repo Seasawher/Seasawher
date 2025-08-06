@@ -83,7 +83,11 @@ To this goal I was involved in setting up a community called [lean-ja](https://d
 
 * Please use Discord for private discussions. `seasawher` is me.
 
+## Sponsor
 
+Thank you for your support!
+
+<!-- sponsors --><!-- sponsors -->
 
 ## Acknowledgment 🙇
 * [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
