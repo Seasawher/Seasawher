@@ -87,7 +87,7 @@ To this goal I was involved in setting up a community called [lean-ja](https://d
 
 Thank you for your support!
 
-<!-- sponsors --><!-- sponsors -->
+<!-- sponsors --><a href="https://github.com/pogin503"><img src="https:&#x2F;&#x2F;github.com&#x2F;pogin503.png" width="60px" alt="User avatar: pogin" /></a><a href="https://github.com/hosht"><img src="https:&#x2F;&#x2F;github.com&#x2F;hosht.png" width="60px" alt="User avatar: Takanobu Hoshino" /></a><!-- sponsors -->
 
 ## Acknowledgment 🙇
 * [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
