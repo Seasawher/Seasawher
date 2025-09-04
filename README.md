@@ -29,6 +29,7 @@ To this goal I was involved in setting up a community called [lean-ja](https://d
   * [arXiv](https://arxiv.org/abs/2201.01419)
   * accepted to the Journal of the Operations Research Society of Japan (JORSJ), Vol. 68, No.3 (July 2025)
 * [n月刊ラムダノート Vol.5, No.1(2025)/自然数を作って学ぶLean言語](https://www.lambdanote.com/products/n-vol-5-no-1)
+* [ゼロから始めるLean言語入門](https://www.lambdanote.com/products/leanbook)
 
 ## 📊 Stats
 
