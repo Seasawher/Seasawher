@@ -24,6 +24,7 @@ To this goal I was involved in setting up a community called [lean-ja](https://d
 * [Lean言語は新世代の純粋関数型言語になれるか？](./assets/fp_matsuri_2025.pdf) / [関数型まつり2025](https://fortee.jp/2025fp-matsuri)
 * [Leanで本を執筆する](./assets/TPP2025.pdf) / [TPP2025](https://tpp2025.blogspot.com/)
   * これはPPL2025での発表と本質的に同じ内容
+* [Lean プロジェクトの依存関係を 自動更新する](./assets/lambda_kansai_2026.pdf) / [λ Kansai in Winter 2026](https://lambda-kansai.connpass.com/event/370812/)
 
 ## 📚 Publications
 
