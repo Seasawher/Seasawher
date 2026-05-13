@@ -35,52 +35,52 @@ To this goal I was involved in setting up a community called [lean-ja](https://d
 
 ## 📊 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seasawher&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Seasawher&show_icons=true&theme=transparent)
 
 ## 🖐️ My Past OSS Contributions
 
 ### GitHub Action for Lean
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oliver-butterley&repo=lean-update&show_owner=true)](https://github.com/oliver-butterley/lean-update)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leanprover-community&repo=lean-update&show_owner=true)](https://github.com/leanprover-community/lean-update)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leanprover&repo=lean-action&show_owner=true)](https://github.com/leanprover/lean-action)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=oliver-butterley&repo=lean-update&show_owner=true)](https://github.com/oliver-butterley/lean-update)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=leanprover-community&repo=lean-update&show_owner=true)](https://github.com/leanprover-community/lean-update)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=leanprover&repo=lean-action&show_owner=true)](https://github.com/leanprover/lean-action)
 
 ### Lean Textbook, Tutorial
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuma-mizuno&repo=lean-math-workshop&show_owner=true)](https://github.com/yuma-mizuno/lean-math-workshop)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leanprover-community&repo=lean4-metaprogramming-book&show_owner=true)](https://github.com/leanprover-community/lean4-metaprogramming-book)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=yuma-mizuno&repo=lean-math-workshop&show_owner=true)](https://github.com/yuma-mizuno/lean-math-workshop)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=leanprover-community&repo=lean4-metaprogramming-book&show_owner=true)](https://github.com/leanprover-community/lean4-metaprogramming-book)
 
 ### Lean Reference
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lean-ja&repo=lean-by-example&show_owner=true)](https://github.com/lean-ja/lean-by-example)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=mathlib4-help&show_owner=true)](https://github.com/Seasawher/mathlib4-help)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lean-ja&repo=lean-by-example-legacy&show_owner=true)](https://github.com/lean-ja/lean-by-example-legacy)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=lean-ja&repo=lean-by-example&show_owner=true)](https://github.com/lean-ja/lean-by-example)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Seasawher&repo=mathlib4-help&show_owner=true)](https://github.com/Seasawher/mathlib4-help)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=lean-ja&repo=lean-by-example-legacy&show_owner=true)](https://github.com/lean-ja/lean-by-example-legacy)
 
 ### Lean articles
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lean-ja&repo=zenn.dev&show_owner=true)](https://github.com/lean-ja/zenn.dev)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=lean-ja&repo=zenn.dev&show_owner=true)](https://github.com/lean-ja/zenn.dev)
 
 ### Lean Application Library
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=mdgen&show_owner=true)](https://github.com/Seasawher/mdgen)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=lean-book&show_owner=true)](https://github.com/Seasawher/lean-book)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=mk-exercise&show_owner=true)](https://github.com/Seasawher/mk-exercise)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=import-all&show_owner=true)](https://github.com/Seasawher/import-all)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Seasawher&repo=mdgen&show_owner=true)](https://github.com/Seasawher/mdgen)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Seasawher&repo=lean-book&show_owner=true)](https://github.com/Seasawher/lean-book)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Seasawher&repo=mk-exercise&show_owner=true)](https://github.com/Seasawher/mk-exercise)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Seasawher&repo=import-all&show_owner=true)](https://github.com/Seasawher/import-all)
 
 ### Translation of Lean documents, Articles
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lean-ja&repo=math-in-type-theory-ja&show_owner=true)](https://github.com/lean-ja/math-in-type-theory-ja)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lean-ja&repo=fp-lean-ja&show_owner=true)](https://github.com/lean-ja/fp-lean-ja)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lean-ja&repo=mathematics_in_lean_source&show_owner=true)](https://github.com/lean-ja/mathematics_in_lean_source)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=lean-ja&repo=math-in-type-theory-ja&show_owner=true)](https://github.com/lean-ja/math-in-type-theory-ja)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=lean-ja&repo=fp-lean-ja&show_owner=true)](https://github.com/lean-ja/fp-lean-ja)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=lean-ja&repo=mathematics_in_lean_source&show_owner=true)](https://github.com/lean-ja/mathematics_in_lean_source)
 
 ### Lean Math Library
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=SelectionSort.lean&show_owner=true)](https://github.com/Seasawher/SelectionSort.lean)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dwrensha&repo=compfiles&show_owner=true)](https://github.com/dwrensha/compfiles)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Seasawher&repo=SelectionSort.lean&show_owner=true)](https://github.com/Seasawher/SelectionSort.lean)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=dwrensha&repo=compfiles&show_owner=true)](https://github.com/dwrensha/compfiles)
 
 ### Informal Math
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seasawher&repo=graduate_exam&show_owner=true)](https://github.com/Seasawher/graduate_exam)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Seasawher&repo=graduate_exam&show_owner=true)](https://github.com/Seasawher/graduate_exam)
 
 ## 📫 Contact me
 
