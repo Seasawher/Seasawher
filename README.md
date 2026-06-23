@@ -29,7 +29,7 @@ To this goal I was involved in setting up a community called [lean-ja](https://d
 ## 📚 Publications
 
 * [An Additive Approximation Scheme for the Nash Social Welfare Maximization with Identical Additive Valuations](https://arxiv.org/abs/2201.01419)
-  <!-- * accepted to the Journal of the Operations Research Society of Japan (JORSJ), Vol. 68, No.3 (July 2025) -->
+  * accepted to the Journal of the Operations Research Society of Japan (JORSJ): see [2025 Volume 68 Issue 4](https://www.jstage.jst.go.jp/article/jorsj/68/4/68_133/_article)
 * [n月刊ラムダノート Vol.5, No.1(2025)/自然数を作って学ぶLean言語](https://www.lambdanote.com/products/n-vol-5-no-1)
 * [「ゼロから始めるLean言語入門 ― 手を動かして学ぶ形式数学ライブラリ開発」ラムダノート](https://www.lambdanote.com/products/leanbook)
 
