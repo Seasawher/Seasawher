@@ -17,6 +17,7 @@ To this goal I was involved in setting up a community called [lean-ja](https://d
 * 2020.04-2022.03: Kyoto University, Master of Science (Mathematics)
 * 2022.04-2024.01: web engineer.
 * 2024.02-now: software engineer at [Proxima Technology](https://proxima-ai-tech.com/)
+* 2026.04-2031.03: visiting scientist at [RIKEN AIP Deep Learning Theory Team](https://aip.riken.jp/labs/math_intel/deep_learn_theory/).
 
 ## 🤵‍♂️ Talks
 
